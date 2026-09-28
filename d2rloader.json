@@ -13,7 +13,8 @@
 		"jaJP": "General",
 		"ptBR": "General",
 		"ruRU": "General",
-		"zhCN": "通用"
+		"zhCN": "通用",
+		"viVN": "Chung"
 	},
 	{
 		"Key": "D2RLoaderSettingsStartup",
@@ -29,7 +30,8 @@
 		"jaJP": "Startup",
 		"ptBR": "Startup",
 		"ruRU": "Startup",
-		"zhCN": "启动项"
+		"zhCN": "启动项",
+		"viVN": "Khởi động"
 	},
 	{
 		"Key": "D2RLoaderSettingsDefaultMod",
@@ -45,7 +47,8 @@
 		"jaJP": "Default mod\ue07e1*",
 		"ptBR": "Default mod\ue07e1*",
 		"ruRU": "Default mod\ue07e1*",
-		"zhCN": "默认MOD\ue07e1*"
+		"zhCN": "默认MOD\ue07e1*",
+		"viVN": "Mod mặc định\ue07e1*"
 	},
 	{
 		"Key": "D2RLoaderSettingsDefaultModTooltip",
@@ -61,7 +64,8 @@
 		"jaJP": "Automatically launch with a mod from the mods folder.",
 		"ptBR": "Automatically launch with a mod from the mods folder.",
 		"ruRU": "Automatically launch with a mod from the mods folder.",
-		"zhCN": "从mods路径中自动加载所选mod."
+		"zhCN": "从mods路径中自动加载所选mod.",
+		"viVN": "Tự động khởi chạy cùng mod được chọn từ thư mục mods."
 	},
 	{
 		"Key": "D2RLoaderSettingsSkipTitleScreen",
@@ -77,7 +81,8 @@
 		"jaJP": "Skip title screen",
 		"ptBR": "Skip title screen",
 		"ruRU": "Skip title screen",
-		"zhCN": "跳过标题界面"
+		"zhCN": "跳过标题界面",
+		"viVN": "Bỏ qua màn hình tiêu đề"
 	},
 	{
 		"Key": "D2RLoaderSettingsSkipTitleScreenTooltip",
@@ -93,7 +98,8 @@
 		"jaJP": "Skip title screen.",
 		"ptBR": "Skip title screen.",
 		"ruRU": "Skip title screen.",
-		"zhCN": "跳过标题界面."
+		"zhCN": "跳过标题界面.",
+		"viVN": "Bỏ qua màn hình tiêu đề."
 	},
 	{
 		"Key": "D2RLoaderSettingsShowTcpIpButton",
@@ -109,7 +115,8 @@
 		"jaJP": "マルチプレイボタンを表示",
 		"ptBR": "Mostrar botão Multijogador",
 		"ruRU": "Показывать кнопку сетевой игры",
-		"zhCN": "显示TCP/IP按钮"
+		"zhCN": "显示TCP/IP按钮",
+		"viVN": "Hiện nút Nhiều người chơi"
 	},
 	{
 		"Key": "D2RLoaderSettingsShowTcpIpButtonTooltip",
@@ -125,7 +132,8 @@
 		"jaJP": "「プレイ」の横にマルチプレイボタンを表示します。\n通常のメインメニューを置き換える、または非表示にするMod向けです。",
 		"ptBR": "Mostra o botão Multijogador ao lado de Jogar.\nPara mods que substituem ou ocultam o menu principal normal.",
 		"ruRU": "Показывает кнопку сетевой игры рядом с кнопкой «Играть».\nДля модов, которые заменяют или скрывают обычное главное меню.",
-		"zhCN": "在进入游戏按钮下方加入TCP/IP按钮.\n适用于替换或隐藏默认按钮的模组."
+		"zhCN": "在进入游戏按钮下方加入TCP/IP按钮.\n适用于替换或隐藏默认按钮的模组.",
+		"viVN": "Hiển thị nút Nhiều người chơi cạnh nút Chơi.\nDành cho các bản mod thay thế hoặc ẩn\nmenu chính mặc định."
 	},
 	{
 		"Key": "D2RLoaderSettingsLocale",
@@ -141,7 +149,8 @@
 		"jaJP": "Locale",
 		"ptBR": "Locale",
 		"ruRU": "Locale",
-		"zhCN": "文本语言"
+		"zhCN": "文本语言",
+		"viVN": "Ngôn ngữ"
 	},
 	{
 		"Key": "D2RLoaderSettingsTextLanguage",
@@ -157,7 +166,8 @@
 		"jaJP": "Text language\ue07e1*",
 		"ptBR": "Text language\ue07e1*",
 		"ruRU": "Text language\ue07e1*",
-		"zhCN": "文本语言\ue07e1*"
+		"zhCN": "文本语言\ue07e1*",
+		"viVN": "Ngôn ngữ văn bản\ue07e1*"
 	},
 	{
 		"Key": "D2RLoaderSettingsTextLanguageTooltip",
@@ -173,7 +183,8 @@
 		"jaJP": "Override UI text language.",
 		"ptBR": "Override UI text language.",
 		"ruRU": "Override UI text language.",
-		"zhCN": "替换菜单及文本语言."
+		"zhCN": "替换菜单及文本语言.",
+		"viVN": "Ghi đè ngôn ngữ văn bản UI."
 	},
 	{
 		"Key": "D2RLoaderSettingsAudioLanguage",
@@ -189,7 +200,8 @@
 		"jaJP": "Audio language\ue07e1*",
 		"ptBR": "Audio language\ue07e1*",
 		"ruRU": "Audio language\ue07e1*",
-		"zhCN": "语音语言\ue07e1*"
+		"zhCN": "语音语言\ue07e1*",
+		"viVN": "Ngôn ngữ âm thanh\ue07e1*"
 	},
 	{
 		"Key": "D2RLoaderSettingsAudioLanguageTooltip",
@@ -205,7 +217,8 @@
 		"jaJP": "Override spoken audio language.",
 		"ptBR": "Override spoken audio language.",
 		"ruRU": "Override spoken audio language.",
-		"zhCN": "替换语音语言."
+		"zhCN": "替换语音语言.",
+		"viVN": "Ghi đè ngôn ngữ giọng nói lồng tiếng."
 	},
 	{
 		"Key": "D2RLoaderSettingsAudioLanguageNote",
@@ -221,7 +234,8 @@
 		"jaJP": "Note: Audio language requires the selected language to be downloaded on Battle.net.",
 		"ptBR": "Note: Audio language requires the selected language to be downloaded on Battle.net.",
 		"ruRU": "Note: Audio language requires the selected language to be downloaded on Battle.net.",
-		"zhCN": "注:语音语言需要从战网下载选择的语言音频文件."
+		"zhCN": "注:语音语言需要从战网下载选择的语言音频文件.",
+		"viVN": "Lưu ý: Ngôn ngữ âm thanh yêu cầu gói ngôn ngữ đã chọn phải được tải về qua Battle.net."
 	},
 	{
 		"Key": "D2RLoaderSettingsAdvanced",
@@ -237,7 +251,8 @@
 		"jaJP": "Advanced",
 		"ptBR": "Advanced",
 		"ruRU": "Advanced",
-		"zhCN": "高级"
+		"zhCN": "高级",
+		"viVN": "Nâng cao"
 	},
 	{
 		"Key": "D2RLoaderSettingsAdvancedNote",
@@ -253,7 +268,8 @@
 		"jaJP": "Note: Only change these settings if you know what you are doing.",
 		"ptBR": "Note: Only change these settings if you know what you are doing.",
 		"ruRU": "Note: Only change these settings if you know what you are doing.",
-		"zhCN": "注:除非了解,否则请勿修改以下选项."
+		"zhCN": "注:除非了解,否则请勿修改以下选项.",
+		"viVN": "Lưu ý: Chỉ thay đổi các thiết lập này nếu bạn nắm rõ những gì mình đang làm."
 	},
 	{
 		"Key": "D2RLoaderSettingsAdvancedTooltip",
@@ -269,7 +285,8 @@
 		"jaJP": "Only change advanced settings if you know what you are doing or a mod page asks you to.",
 		"ptBR": "Only change advanced settings if you know what you are doing or a mod page asks you to.",
 		"ruRU": "Only change advanced settings if you know what you are doing or a mod page asks you to.",
-		"zhCN": "除非了解,或模组页面要求,否则请勿修改高级项."
+		"zhCN": "除非了解,或模组页面要求,否则请勿修改高级项.",
+		"viVN": "Chỉ thay đổi thiết lập nâng cao nếu bạn nắm rõ hoặc được trang mod yêu cầu."
 	},
 	{
 		"Key": "D2RLoaderSettingsAllowGlobalExtensions",
@@ -285,7 +302,8 @@
 		"jaJP": "Allow global extensions\ue07e1*",
 		"ptBR": "Allow global extensions\ue07e1*",
 		"ruRU": "Allow global extensions\ue07e1*",
-		"zhCN": "允许全局扩展\ue07e1*"
+		"zhCN": "允许全局扩展\ue07e1*",
+		"viVN": "Cho phép tiện ích mở rộng toàn cục\ue07e1*"
 	},
 	{
 		"Key": "D2RLoaderSettingsAllowGlobalExtensionsTooltip",
@@ -301,7 +319,8 @@
 		"jaJP": "Load D2RLoader extensions from the global plugins and patches folders.\nTurn this off to never load global extensions.",
 		"ptBR": "Load D2RLoader extensions from the global plugins and patches folders.\nTurn this off to never load global extensions.",
 		"ruRU": "Load D2RLoader extensions from the global plugins and patches folders.\nTurn this off to never load global extensions.",
-		"zhCN": "从D2RLoader目录下的plugins和patches路径中加载D2RLoader插件及扩展."
+		"zhCN": "从D2RLoader目录下的plugins和patches路径中加载D2RLoader插件及扩展.",
+		"viVN": "Tải các tiện ích D2RLoader từ thư mục plugins và patches toàn cục.\nTắt tùy chọn này để không tải tiện ích toàn cục."
 	},
 	{
 		"Key": "D2RLoaderSettingsAllowModExtensions",
@@ -317,7 +336,8 @@
 		"jaJP": "Allow mod extensions\ue07e1*",
 		"ptBR": "Allow mod extensions\ue07e1*",
 		"ruRU": "Allow mod extensions\ue07e1*",
-		"zhCN": "允许mod扩展\ue07e1*"
+		"zhCN": "允许mod扩展\ue07e1*",
+		"viVN": "Cho phép tiện ích mở rộng của mod\ue07e1*"
 	},
 	{
 		"Key": "D2RLoaderSettingsAllowModExtensionsTooltip",
@@ -333,7 +353,8 @@
 		"jaJP": "Load D2RLoader extensions bundled with the active mod.\nTurn this off to never load mod extensions.",
 		"ptBR": "Load D2RLoader extensions bundled with the active mod.\nTurn this off to never load mod extensions.",
 		"ruRU": "Load D2RLoader extensions bundled with the active mod.\nTurn this off to never load mod extensions.",
-		"zhCN": "加载与D2RLoader绑定的MOD扩展.禁用此项不加载任何MOD扩展."
+		"zhCN": "加载与D2RLoader绑定的MOD扩展.禁用此项不加载任何MOD扩展.",
+		"viVN": "Tải các tiện ích D2RLoader đi kèm với mod đang kích hoạt.\nTắt tùy chọn này để không tải tiện ích của mod."
 	},
 	{
 		"Key": "D2RLoaderSettingsGenerateCrashDumps",
@@ -349,7 +370,8 @@
 		"jaJP": "Generate crash dumps",
 		"ptBR": "Generate crash dumps",
 		"ruRU": "Generate crash dumps",
-		"zhCN": "生成崩溃记录文件"
+		"zhCN": "生成崩溃记录文件",
+		"viVN": "Tạo tệp ghi sự cố"
 	},
 	{
 		"Key": "D2RLoaderSettingsGenerateCrashDumpsTooltip",
@@ -365,7 +387,8 @@
 		"jaJP": "Generate minidump files that are used for debugging crashes.",
 		"ptBR": "Generate minidump files that are used for debugging crashes.",
 		"ruRU": "Generate minidump files that are used for debugging crashes.",
-		"zhCN": "生成崩溃记录文件,以方便调试."
+		"zhCN": "生成崩溃记录文件,以方便调试.",
+		"viVN": "Tạo các tệp minidump dùng để gỡ lỗi khi trò chơi gặp sự cố."
 	},
 	{
 		"Key": "D2RLoaderSettingsModdingTools",
@@ -381,7 +404,8 @@
 		"jaJP": "Modding Tools",
 		"ptBR": "Modding Tools",
 		"ruRU": "Modding Tools",
-		"zhCN": "MOD工具"
+		"zhCN": "MOD工具",
+		"viVN": "Công cụ Mod"
 	},
 	{
 		"Key": "D2RLoaderSettingsDebugModeNote",
@@ -397,7 +421,8 @@
 		"jaJP": "Note: Debug mode is available through the console.",
 		"ptBR": "Note: Debug mode is available through the console.",
 		"ruRU": "Note: Debug mode is available through the console.",
-		"zhCN": "注:调试模式可于控制台启用."
+		"zhCN": "注:调试模式可于控制台启用.",
+		"viVN": "Lưu ý: Chế độ gỡ lỗi có thể mở thông qua bảng điều khiển."
 	},
 	{
 		"Key": "D2RLoaderSettingsEnableDeveloperConsole",
@@ -413,7 +438,8 @@
 		"jaJP": "Enable Developer Console",
 		"ptBR": "Enable Developer Console",
 		"ruRU": "Enable Developer Console",
-		"zhCN": "启用开发者控制台"
+		"zhCN": "启用开发者控制台",
+		"viVN": "Bật Console cho nhà phát triển"
 	},
 	{
 		"Key": "D2RLoaderSettingsEnableDeveloperConsoleTooltip",
@@ -429,7 +455,8 @@
 		"jaJP": "Enable the in-game console.\nPress Ctrl + ` to open.",
 		"ptBR": "Enable the in-game console.\nPress Ctrl + ` to open.",
 		"ruRU": "Enable the in-game console.\nPress Ctrl + ` to open.",
-		"zhCN": "启用游戏内控制台\n按下Ctrl+`快捷键开启."
+		"zhCN": "启用游戏内控制台\n按下Ctrl+`快捷键开启.",
+		"viVN": "Bật bảng điều khiển trong game.\nNhấn Ctrl + ` để mở."
 	},
 	{
 		"Key": "D2RLoaderSettingsAssertionDialogs",
@@ -445,7 +472,8 @@
 		"jaJP": "Assertion dialogs",
 		"ptBR": "Assertion dialogs",
 		"ruRU": "Assertion dialogs",
-		"zhCN": "断言提示"
+		"zhCN": "断言提示",
+		"viVN": "Hộp thoại chẩn đoán"
 	},
 	{
 		"Key": "D2RLoaderSettingsAssertionDialogsTooltip",
@@ -461,7 +489,8 @@
 		"jaJP": "Show assertion pop-ups when D2RLoader detects a\npotential modding or game-state issue.\nUseful while creating or testing mods.",
 		"ptBR": "Show assertion pop-ups when D2RLoader detects a\npotential modding or game-state issue.\nUseful while creating or testing mods.",
 		"ruRU": "Show assertion pop-ups when D2RLoader detects a\npotential modding or game-state issue.\nUseful while creating or testing mods.",
-		"zhCN": "当MOD或者游戏出问题时跳出断言提示.\n方便制作或测试MOD."
+		"zhCN": "当MOD或者游戏出问题时跳出断言提示.\n方便制作或测试MOD.",
+		"viVN": "Hiện thông báo assertion khi D2RLoader phát hiện\nvấn đề tiềm ẩn về mod hoặc trạng thái trò chơi.\nHữu ích khi tạo hoặc kiểm thử mod."
 	},
 	{
 		"Key": "D2RLoaderSettingsRestartRequired",
@@ -477,7 +506,8 @@
 		"jaJP": "\ue07e1*\ue07e4 Requires restarting D2R.",
 		"ptBR": "\ue07e1*\ue07e4 Requires restarting D2R.",
 		"ruRU": "\ue07e1*\ue07e4 Requires restarting D2R.",
-		"zhCN": "\ue07e4带 \ue07e1*\ue07e4 项修改时需要重启D2R."
+		"zhCN": "\ue07e4带 \ue07e1*\ue07e4 项修改时需要重启D2R.",
+		"viVN": "\ue07e1*\ue07e4 Yêu cầu khởi động lại D2R."
 	},
 	{
 		"Key": "D2RLoaderSettingsShowGroundSockets",
@@ -493,7 +523,8 @@
 		"jaJP": "Show ground sockets",
 		"ptBR": "Show ground sockets",
 		"ruRU": "Show ground sockets",
-		"zhCN": "显示地面裝備孔数"
+		"zhCN": "显示地面裝備孔数",
+		"viVN": "Hiện số lỗ vật phẩm trên mặt đất"
 	},
 	{
 		"Key": "D2RLoaderSettingsShowGroundSocketsTooltip",
@@ -509,7 +540,8 @@
 		"jaJP": "Show socket counts on ground items.",
 		"ptBR": "Show socket counts on ground items.",
 		"ruRU": "Show socket counts on ground items.",
-		"zhCN": "显示地面装备孔数."
+		"zhCN": "显示地面装备孔数.",
+		"viVN": "Hiển thị số lỗ của vật phẩm rơi trên mặt đất."
 	},
 	{
 		"Key": "D2RLoaderSettingsDisplayItemLevels",
@@ -525,7 +557,8 @@
 		"jaJP": "Display item levels",
 		"ptBR": "Display item levels",
 		"ruRU": "Display item levels",
-		"zhCN": "显示物品等级"
+		"zhCN": "显示物品等级",
+		"viVN": "Hiển thị cấp độ vật phẩm"
 	},
 	{
 		"Key": "D2RLoaderSettingsDisplayItemLevelsTooltip",
@@ -541,7 +574,8 @@
 		"jaJP": "Show item levels on equipment.",
 		"ptBR": "Show item levels on equipment.",
 		"ruRU": "Show item levels on equipment.",
-		"zhCN": "在背包仓库中显示物品等级."
+		"zhCN": "在背包仓库中显示物品等级.",
+		"viVN": "Hiển thị cấp độ vật phẩm trên trang bị."
 	},
 	{
 		"Key": "D2RLoaderSettingsEnableRespecShortcuts",
@@ -557,7 +591,8 @@
 		"jaJP": "Enable respec shortcuts",
 		"ptBR": "Enable respec shortcuts",
 		"ruRU": "Enable respec shortcuts",
-		"zhCN": "启用洗点快捷键"
+		"zhCN": "启用洗点快捷键",
+		"viVN": "Bật phím tắt tẩy điểm"
 	},
 	{
 		"Key": "D2RLoaderSettingsEnableRespecShortcutsTooltip",
@@ -573,7 +608,8 @@
 		"jaJP": "Enables shortcuts for stat and skill reset.\nDoes not add normal Akara respec uses.\nAlt + Click Statpoints to use.",
 		"ptBR": "Enables shortcuts for stat and skill reset.\nDoes not add normal Akara respec uses.\nAlt + Click Statpoints to use.",
 		"ruRU": "Enables shortcuts for stat and skill reset.\nDoes not add normal Akara respec uses.\nAlt + Click Statpoints to use.",
-		"zhCN": "启用属性/技能洗点快捷键.\n不抵消阿卡拉洗点次数\nAlt+点击使用."
+		"zhCN": "启用属性/技能洗点快捷键.\n不抵消阿卡拉洗点次数\nAlt+点击使用.",
+		"viVN": "Bật phím tắt để tẩy điểm thuộc tính và kỹ năng.\nKhông ảnh hưởng tới số lần tẩy điểm của Akara.\nNhấn Alt + Nhấp chuột vào điểm thuộc tính để dùng."
 	},
 	{
 		"Key": "D2RLoaderSettingsAdditionalSharedTabs",
@@ -589,7 +625,8 @@
 		"jaJP": "Additional shared tabs",
 		"ptBR": "Additional shared tabs",
 		"ruRU": "Additional shared tabs",
-		"zhCN": "额外共享箱标签页"
+		"zhCN": "额外共享箱标签页",
+		"viVN": "Thêm ngăn rương dùng chung"
 	},
 	{
 		"Key": "D2RLoaderSettingsAdditionalSharedTabsTooltip",
@@ -605,7 +642,8 @@
 		"jaJP": "Add more shared stash tabs after the vanilla tabs",
 		"ptBR": "Add more shared stash tabs after the vanilla tabs",
 		"ruRU": "Add more shared stash tabs after the vanilla tabs",
-		"zhCN": "在原版基础上给共享箱增加标签页"
+		"zhCN": "在原版基础上给共享箱增加标签页",
+		"viVN": "Thêm các ngăn rương dùng chung phía sau các ngăn gốc"
 	},
 	{
 		"Key": "D2RLoaderSettingsMaterialsLimit",
@@ -621,7 +659,8 @@
 		"jaJP": "Materials limit",
 		"ptBR": "Materials limit",
 		"ruRU": "Materials limit",
-		"zhCN": "仓库材料堆叠上限"
+		"zhCN": "仓库材料堆叠上限",
+		"viVN": "Giới hạn xếp chồng nguyên liệu"
 	},
 	{
 		"Key": "D2RLoaderSettingsMaterialsLimitTooltip",
@@ -637,7 +676,8 @@
 		"jaJP": "Set maximum materials stack size.",
 		"ptBR": "Set maximum materials stack size.",
 		"ruRU": "Set maximum materials stack size.",
-		"zhCN": "设置仓库符文/宝石等材料堆叠上限."
+		"zhCN": "设置仓库符文/宝石等材料堆叠上限.",
+		"viVN": "Đặt số lượng xếp chồng tối đa cho nguyên liệu."
 	},
 	{
 		"Key": "D2RLoaderSettingsMaterialsSliderTooltip",
@@ -653,7 +693,8 @@
 		"jaJP": "Set materials stack size.",
 		"ptBR": "Set materials stack size.",
 		"ruRU": "Set materials stack size.",
-		"zhCN": "设置仓库符文/宝石等材料堆叠上限."
+		"zhCN": "设置仓库符文/宝石等材料堆叠上限.",
+		"viVN": "Đặt số lượng xếp chồng nguyên liệu."
 	},
 	{
 		"Key": "D2RLoaderSettingsVanilla",
@@ -669,7 +710,8 @@
 		"jaJP": "Vanilla",
 		"ptBR": "Vanilla",
 		"ruRU": "Vanilla",
-		"zhCN": "基础"
+		"zhCN": "基础",
+		"viVN": "Nguyên bản"
 	},
 	{
 		"Key": "D2RLoaderTcpIp",
@@ -685,7 +727,8 @@
 		"jaJP": "マルチプレイ",
 		"ptBR": "Multijogador",
 		"ruRU": "Сетевая игра",
-		"zhCN": "TCP/IP"
+		"zhCN": "TCP/IP",
+		"viVN": "Nhiều người chơi"
 	},
 	{
 		"Key": "D2RLoaderAdvancedStashPageTooltip",
@@ -701,7 +744,8 @@
 		"jaJP": "Shift-click: Add 5 pages\nCtrl-click: add 10 pages",
 		"ptBR": "Shift-click: Add 5 pages\nCtrl-click: add 10 pages",
 		"ruRU": "Shift-click: Add 5 pages\nCtrl-click: add 10 pages",
-		"zhCN": "Shift+点击:翻五页\nCtrl+点击:翻十页"
+		"zhCN": "Shift+点击:翻五页\nCtrl+点击:翻十页",
+		"viVN": "Shift + Nhấp chuột: Thêm 5 trang\nCtrl + Nhấp chuột: Thêm 10 trang"
 	},
 	{
 		"Key": "D2RLoaderAboutTab",
@@ -717,7 +761,8 @@
 		"jaJP": "About",
 		"ptBR": "About",
 		"ruRU": "About",
-		"zhCN": "关于"
+		"zhCN": "关于",
+		"viVN": "Giới thiệu"
 	},
 	{
 		"Key": "D2RLoaderExtensionsTab",
@@ -733,7 +778,8 @@
 		"jaJP": "Extensions",
 		"ptBR": "Extensions",
 		"ruRU": "Extensions",
-		"zhCN": "扩展"
+		"zhCN": "扩展",
+		"viVN": "Tiện ích mở rộng"
 	},
 	{
 		"Key": "D2RLoaderExtensionsPlugins",
@@ -749,7 +795,8 @@
 		"jaJP": "Plugins",
 		"ptBR": "Plugins",
 		"ruRU": "Plugins",
-		"zhCN": "插件"
+		"zhCN": "插件",
+		"viVN": "Plugin"
 	},
 	{
 		"Key": "D2RLoaderExtensionsPatches",
@@ -765,7 +812,8 @@
 		"jaJP": "Patches",
 		"ptBR": "Patches",
 		"ruRU": "Patches",
-		"zhCN": "补丁"
+		"zhCN": "补丁",
+		"viVN": "Patches"
 	},
 	{
 		"Key": "D2RLoaderSettingsOpenGlobalPluginsFolderTooltip",
@@ -781,7 +829,8 @@
 		"jaJP": "Open global plugins folder",
 		"ptBR": "Open global plugins folder",
 		"ruRU": "Open global plugins folder",
-		"zhCN": "打开全局插件文件夹"
+		"zhCN": "打开全局插件文件夹",
+		"viVN": "Mở thư mục plugin toàn cục"
 	},
 	{
 		"Key": "D2RLoaderSettingsOpenGlobalPatchesFolderTooltip",
@@ -797,7 +846,8 @@
 		"jaJP": "Open global patches folder",
 		"ptBR": "Open global patches folder",
 		"ruRU": "Open global patches folder",
-		"zhCN": "打开全局补丁文件夹"
+		"zhCN": "打开全局补丁文件夹",
+		"viVN": "Mở thư mục patches toàn cục"
 	},
 	{
 		"Key": "D2RLoaderAboutTitle",
@@ -813,7 +863,8 @@
 		"jaJP": "Overview",
 		"ptBR": "Overview",
 		"ruRU": "Overview",
-		"zhCN": "概览"
+		"zhCN": "概览",
+		"viVN": "Tổng quan"
 	},
 	{
 		"Key": "D2RLoaderAboutDescription",
@@ -829,7 +880,8 @@
 		"jaJP": "Made with care to bring back missing Diablo II features and give modders proper tools to build with.",
 		"ptBR": "Made with care to bring back missing Diablo II features and give modders proper tools to build with.",
 		"ruRU": "Made with care to bring back missing Diablo II features and give modders proper tools to build with.",
-		"zhCN": "精心制作,带回暗黑破坏神2缺失的功能,给予MOD作者更方便的工具以获得舒适的开发体验."
+		"zhCN": "精心制作,带回暗黑破坏神2缺失的功能,给予MOD作者更方便的工具以获得舒适的开发体验.",
+		"viVN": "Được phát triển tâm huyết nhằm mang lại các tính năng còn thiếu của Diablo II và cung cấp cho cộng đồng mod các công cụ phù hợp để sáng tạo."
 	},
 	{
 		"Key": "D2RLoaderAboutSupport",
@@ -845,7 +897,8 @@
 		"jaJP": "Support is never required, but it helps me keep developing D2RLoader, maintaining existing features, fixing bugs, and building new tools for the community.",
 		"ptBR": "Support is never required, but it helps me keep developing D2RLoader, maintaining existing features, fixing bugs, and building new tools for the community.",
 		"ruRU": "Support is never required, but it helps me keep developing D2RLoader, maintaining existing features, fixing bugs, and building new tools for the community.",
-		"zhCN": "支持并非必须,但它能帮助我持续开发D2RLoader,维护现有功能,修复错误,并为社区打造新工具."
+		"zhCN": "支持并非必须,但它能帮助我持续开发D2RLoader,维护现有功能,修复错误,并为社区打造新工具.",
+		"viVN": "Ủng hộ không bao giờ là bắt buộc, nhưng điều đó giúp tác giả tiếp tục phát triển D2RLoader, duy trì các tính năng, sửa lỗi và tạo ra các công cụ mới cho cộng đồng."
 	},
 	{
 		"Key": "D2RLoaderAboutSupportTitle",
@@ -861,7 +914,8 @@
 		"jaJP": "Support D2RLoader",
 		"ptBR": "Support D2RLoader",
 		"ruRU": "Support D2RLoader",
-		"zhCN": "支持D2RLoader"
+		"zhCN": "支持D2RLoader",
+		"viVN": "Ủng hộ D2RLoader"
 	},
 	{
 		"Key": "D2RLoaderAboutCommunity",
@@ -877,7 +931,8 @@
 		"jaJP": "Join the Community",
 		"ptBR": "Join the Community",
 		"ruRU": "Join the Community",
-		"zhCN": "加入社区"
+		"zhCN": "加入社区",
+		"viVN": "Tham gia cộng đồng"
 	},
 	{
 		"Key": "D2RLoaderAboutRuntime",
@@ -893,7 +948,8 @@
 		"jaJP": "Version",
 		"ptBR": "Version",
 		"ruRU": "Version",
-		"zhCN": "版本"
+		"zhCN": "版本",
+		"viVN": "Phiên bản"
 	},
 	{
 		"Key": "D2RLoaderAboutVersion",
@@ -909,7 +965,8 @@
 		"jaJP": "D2RLoader",
 		"ptBR": "D2RLoader",
 		"ruRU": "D2RLoader",
-		"zhCN": "D2RLoader"
+		"zhCN": "D2RLoader",
+		"viVN": "D2RLoader"
 	},
 	{
 		"Key": "D2RLoaderAboutCommit",
@@ -925,7 +982,8 @@
 		"jaJP": "Git Commit",
 		"ptBR": "Git Commit",
 		"ruRU": "Git Commit",
-		"zhCN": "Git Commit"
+		"zhCN": "Git Commit",
+		"viVN": "Git Commit"
 	},
 	{
 		"Key": "D2RLoaderAboutGameBuild",
@@ -941,7 +999,8 @@
 		"jaJP": "Game build",
 		"ptBR": "Game build",
 		"ruRU": "Game build",
-		"zhCN": "游戏数据版本"
+		"zhCN": "游戏数据版本",
+		"viVN": "Bản dựng game"
 	},
 	{
 		"Key": "D2RLoaderAboutPlatform",
@@ -957,7 +1016,8 @@
 		"jaJP": "Platform",
 		"ptBR": "Platform",
 		"ruRU": "Platform",
-		"zhCN": "平台"
+		"zhCN": "平台",
+		"viVN": "Nền tảng"
 	},
 	{
 		"Key": "D2RLoaderAboutActiveMod",
@@ -973,7 +1033,8 @@
 		"jaJP": "Active Mod",
 		"ptBR": "Active Mod",
 		"ruRU": "Active Mod",
-		"zhCN": "激活Mod"
+		"zhCN": "激活Mod",
+		"viVN": "Mod đang kích hoạt"
 	},
 	{
 		"Key": "D2RLoaderAboutModSupport",
@@ -989,7 +1050,8 @@
 		"jaJP": "D2RLoader Support",
 		"ptBR": "D2RLoader Support",
 		"ruRU": "D2RLoader Support",
-		"zhCN": "D2RLoader支持"
+		"zhCN": "D2RLoader支持",
+		"viVN": "Hỗ trợ D2RLoader"
 	},
 	{
 		"Key": "D2RLoaderAboutModDataBuild",
@@ -1005,7 +1067,8 @@
 		"jaJP": "Mod data build",
 		"ptBR": "Mod data build",
 		"ruRU": "Mod data build",
-		"zhCN": "Mod数据版本"
+		"zhCN": "Mod数据版本",
+		"viVN": "Bản dựng dữ liệu mod"
 	},
 	{
 		"Key": "D2RLoaderAboutIntegrationVersion",
@@ -1021,7 +1084,8 @@
 		"jaJP": "Integration version",
 		"ptBR": "Integration version",
 		"ruRU": "Integration version",
-		"zhCN": "集成版本"
+		"zhCN": "集成版本",
+		"viVN": "Phiên bản tích hợp"
 	},
 	{
 		"Key": "D2RLoaderAboutModVersion",
@@ -1037,7 +1101,8 @@
 		"jaJP": "Mod version",
 		"ptBR": "Mod version",
 		"ruRU": "Mod version",
-		"zhCN": "Mod版本"
+		"zhCN": "Mod版本",
+		"viVN": "Phiên bản mod"
 	},
 	{
 		"Key": "D2RLoaderAboutModAuthor",
@@ -1053,7 +1118,8 @@
 		"jaJP": "Author",
 		"ptBR": "Author",
 		"ruRU": "Author",
-		"zhCN": "作者"
+		"zhCN": "作者",
+		"viVN": "Tác giả"
 	},
 	{
 		"Key": "D2RLoaderAboutModWebsite",
@@ -1069,7 +1135,8 @@
 		"jaJP": "Website",
 		"ptBR": "Website",
 		"ruRU": "Website",
-		"zhCN": "网址"
+		"zhCN": "网址",
+		"viVN": "Trang web"
 	},
 	{
 		"Key": "D2RLoaderAboutModDescription",
@@ -1085,7 +1152,8 @@
 		"jaJP": "Mod desc",
 		"ptBR": "Mod desc",
 		"ruRU": "Mod desc",
-		"zhCN": "Mod描述"
+		"zhCN": "Mod描述",
+		"viVN": "Mô tả mod"
 	},
 	{
 		"Key": "D2RLoaderAboutCredits",
@@ -1101,7 +1169,8 @@
 		"jaJP": "Special Thanks",
 		"ptBR": "Special Thanks",
 		"ruRU": "Special Thanks",
-		"zhCN": "特别鸣谢"
+		"zhCN": "特别鸣谢",
+		"viVN": "Lời cảm ơn đặc biệt"
 	},
 	{
 		"Key": "D2RLoaderAboutCreditsText",
@@ -1117,7 +1186,8 @@
 		"jaJP": "\ue07e4TOM_RUS\ue07e0 for insight into modern D2R systems, Battle.net behavior, and general guidance.",
 		"ptBR": "\ue07e4TOM_RUS\ue07e0 for insight into modern D2R systems, Battle.net behavior, and general guidance.",
 		"ruRU": "\ue07e4TOM_RUS\ue07e0 for insight into modern D2R systems, Battle.net behavior, and general guidance.",
-		"zhCN": "\ue07e4TOM_RUS\ue07e0 对现代D2R系统,Battle.net行为以及基础的指导."
+		"zhCN": "\ue07e4TOM_RUS\ue07e0 对现代D2R系统,Battle.net行为以及基础的指导.",
+		"viVN": "\ue07e4TOM_RUS\ue07e0 vì những hiểu biết sâu rộng về hệ thống D2R hiện đại, cơ chế hoạt động của Battle.net và các chỉ dẫn chung."
 	},
 	{
 		"Key": "D2RLoaderAboutCreditsD2Moo",
@@ -1133,7 +1203,8 @@
 		"jaJP": "\ue07e4D2MOO\ue07e0 for legacy Diablo II references and change comparisons.",
 		"ptBR": "\ue07e4D2MOO\ue07e0 for legacy Diablo II references and change comparisons.",
 		"ruRU": "\ue07e4D2MOO\ue07e0 for legacy Diablo II references and change comparisons.",
-		"zhCN": "\ue07e4D2MOO\ue07e0 提供经典暗黑破坏神2的参考资料及新旧变更对比."
+		"zhCN": "\ue07e4D2MOO\ue07e0 提供经典暗黑破坏神2的参考资料及新旧变更对比.",
+		"viVN": "\ue07e4D2MOO\ue07e0 vì tài liệu tham khảo Diablo II cổ điển và các so sánh thay đổi."
 	},
 	{
 		"Key": "D2RLoaderAboutCreditsChuchuMusic",
@@ -1149,7 +1220,8 @@
 		"jaJP": "\ue07e4ChuchuMusic\ue07e0 for QA testing, feedback, and ui/sprite edits.",
 		"ptBR": "\ue07e4ChuchuMusic\ue07e0 for QA testing, feedback, and ui/sprite edits.",
 		"ruRU": "\ue07e4ChuchuMusic\ue07e0 for QA testing, feedback, and ui/sprite edits.",
-		"zhCN": "\ue07e4ChuchuMusic\ue07e0 帮助QA测试,反馈以及ui/sprite编辑."
+		"zhCN": "\ue07e4ChuchuMusic\ue07e0 帮助QA测试,反馈以及ui/sprite编辑.",
+		"viVN": "\ue07e4ChuchuMusic\ue07e0 vì việc kiểm thử QA, đóng góp phản hồi và chỉnh sửa UI/sprite."
 	},
 	{
 		"Key": "D2RLoaderAboutCreditsAlphaTesters",
@@ -1165,7 +1237,8 @@
 		"jaJP": "\ue07e4Alpha testers\ue07e0 for early testing, bug reports, and feedback during the alpha phase.",
 		"ptBR": "\ue07e4Alpha testers\ue07e0 for early testing, bug reports, and feedback during the alpha phase.",
 		"ruRU": "\ue07e4Alpha testers\ue07e0 for early testing, bug reports, and feedback during the alpha phase.",
-		"zhCN": "\ue07e4Alpha testers\ue07e0 帮助前期测试,报告BUG以及在alpha阶段的反馈."
+		"zhCN": "\ue07e4Alpha testers\ue07e0 帮助前期测试,报告BUG以及在alpha阶段的反馈.",
+		"viVN": "\ue07e4Đội ngũ thử nghiệm Alpha\ue07e0 vì đã thử nghiệm sớm, báo cáo lỗi và phản hồi trong giai đoạn alpha."
 	},
 	{
 		"Key": "D2RLoaderAboutJoinDiscord",
@@ -1181,7 +1254,8 @@
 		"jaJP": "Discord",
 		"ptBR": "Discord",
 		"ruRU": "Discord",
-		"zhCN": "Discord"
+		"zhCN": "Discord",
+		"viVN": "Discord"
 	},
 	{
 		"Key": "D2RLoaderSettingsOpenModsFolderTooltip",
@@ -1197,7 +1271,8 @@
 		"jaJP": "Open mods folder",
 		"ptBR": "Open mods folder",
 		"ruRU": "Open mods folder",
-		"zhCN": "打开Mods文件夹"
+		"zhCN": "打开Mods文件夹",
+		"viVN": "Mở thư mục mods"
 	},
 	{
 		"Key": "D2RLoaderAboutDisclaimer",
@@ -1213,7 +1288,8 @@
 		"jaJP": "Independent fan project. Not affiliated with or endorsed by Blizzard Entertainment.",
 		"ptBR": "Independent fan project. Not affiliated with or endorsed by Blizzard Entertainment.",
 		"ruRU": "Independent fan project. Not affiliated with or endorsed by Blizzard Entertainment.",
-		"zhCN": "独立粉丝项目.与暴雪娱乐无关且并未被其支持."
+		"zhCN": "独立粉丝项目.与暴雪娱乐无关且并未被其支持.",
+		"viVN": "Dự án độc lập của người hâm mộ. Không liên kết hoặc được bảo trợ bởi Blizzard Entertainment."
 	},
 	{
 		"Key": "D2RLoaderTutorialTitle",
@@ -1229,7 +1305,8 @@
 		"jaJP": "D2RLoader",
 		"ptBR": "D2RLoader",
 		"ruRU": "D2RLoader",
-		"zhCN": "D2RLoader"
+		"zhCN": "D2RLoader",
+		"viVN": "D2RLoader"
 	},
 	{
 		"Key": "D2RLoaderTutorialDescription",
@@ -1245,7 +1322,8 @@
 		"jaJP": "Use the highlighted D2RLoader button to open loader settings, choose a default mod, and manage gameplay options.",
 		"ptBR": "Use the highlighted D2RLoader button to open loader settings, choose a default mod, and manage gameplay options.",
 		"ruRU": "Use the highlighted D2RLoader button to open loader settings, choose a default mod, and manage gameplay options.",
-		"zhCN": "使用高亮的D2RLoader按钮打开加载器设置，选择默认模组，并管理游戏选项。"
+		"zhCN": "使用高亮的D2RLoader按钮打开加载器设置，选择默认模组，并管理游戏选项。",
+		"viVN": "Sử dụng nút D2RLoader được làm nổi bật để mở cài đặt trình nạp, chọn mod mặc định và quản lý các tùy chọn trò chơi."
 	},
 	{
 		"Key": "D2RLoaderTutorialOpenSettings",
@@ -1261,7 +1339,8 @@
 		"jaJP": "Open Settings",
 		"ptBR": "Open Settings",
 		"ruRU": "Open Settings",
-		"zhCN": "打开设置"
+		"zhCN": "打开设置",
+		"viVN": "Mở Cài đặt"
 	},
 	{
 		"Key": "D2RLoaderTutorialDismiss",
@@ -1277,7 +1356,8 @@
 		"jaJP": "Got It",
 		"ptBR": "Got It",
 		"ruRU": "Got It",
-		"zhCN": "明白"
+		"zhCN": "明白",
+		"viVN": "Đã rõ"
 	},
 	{
 		"Key": "D2RLoaderSettingsDisabledByActiveMod",
@@ -1293,7 +1373,8 @@
 		"jaJP": "Disabled by the active mod.",
 		"ptBR": "Disabled by the active mod.",
 		"ruRU": "Disabled by the active mod.",
-		"zhCN": "被当前激活的mod禁用."
+		"zhCN": "被当前激活的mod禁用.",
+		"viVN": "Đã bị vô hiệu hóa bởi mod đang kích hoạt."
 	},
 	{
 		"Key": "D2RLoaderSettingsOverriddenByActiveMod",
@@ -1309,7 +1390,8 @@
 		"jaJP": "Controlled by the active mod.",
 		"ptBR": "Controlled by the active mod.",
 		"ruRU": "Controlled by the active mod.",
-		"zhCN": "由当前激活的MOD控制."
+		"zhCN": "由当前激活的MOD控制.",
+		"viVN": "Được điều khiển bởi mod đang kích hoạt."
 	},
 	{
 		"Key": "D2RLoaderModBinBuildWarning",
@@ -1325,7 +1407,8 @@
 		"jaJP": "D2RLoader checked the mod data and found it compatible, so it was loaded without being rebuilt. Some parts of the mod may still behave differently than expected.",
 		"ptBR": "D2RLoader checked the mod data and found it compatible, so it was loaded without being rebuilt. Some parts of the mod may still behave differently than expected.",
 		"ruRU": "D2RLoader checked the mod data and found it compatible, so it was loaded without being rebuilt. Some parts of the mod may still behave differently than expected.",
-		"zhCN": "警告：此模组的数据是为不同版本的《暗黑破坏神II：狱火重生》所建立的。D2RLoader 发现该数据仍兼容，因此已载入，但模组的运作仍可能与预期有所差异。"
+		"zhCN": "警告：此模组的数据是为不同版本的《暗黑破坏神II：狱火重生》所建立的。D2RLoader 发现该数据仍兼容，因此已载入，但模组的运作仍可能与预期有所差异。",
+		"viVN": "D2RLoader đã kiểm tra dữ liệu mod và nhận thấy tương thích, nên đã tải mà không cần dựng lại. Một số phần của mod vẫn có thể hoạt động khác dự kiến."
 	},
 	{
 		"Key": "D2RLoaderUnsavedChangesPrompt",
@@ -1341,7 +1424,8 @@
 		"jaJP": "You have unapplied D2RLoader changes. Apply them before closing?",
 		"ptBR": "You have unapplied D2RLoader changes. Apply them before closing?",
 		"ruRU": "You have unapplied D2RLoader changes. Apply them before closing?",
-		"zhCN": "您有未应用的 D2RLoader 变更。关闭前要先应用吗？"
+		"zhCN": "您有未应用的 D2RLoader 变更。关闭前要先应用吗？",
+		"viVN": "Bạn có thay đổi D2RLoader chưa áp dụng. Áp dụng trước khi đóng?"
 	},
 	{
 		"Key": "D2RLoaderDefaultModRestartPrompt",
@@ -1357,7 +1441,8 @@
 		"jaJP": "Default mod changed. Restart D2RLoader to apply mod?",
 		"ptBR": "Default mod changed. Restart D2RLoader to apply mod?",
 		"ruRU": "Default mod changed. Restart D2RLoader to apply mod?",
-		"zhCN": "默认模组已变更。是否要重新启动 D2RLoader 来应用模组？"
+		"zhCN": "默认模组已变更。是否要重新启动 D2RLoader 来应用模组？",
+		"viVN": "Mod mặc định đã thay đổi. Khởi động lại D2RLoader để áp dụng mod?"
 	},
 	{
 		"Key": "D2RLoaderJoinDiscordPrompt",
@@ -1373,7 +1458,8 @@
 		"jaJP": "Open the D2RLoader Discord invite in your browser?",
 		"ptBR": "Open the D2RLoader Discord invite in your browser?",
 		"ruRU": "Open the D2RLoader Discord invite in your browser?",
-		"zhCN": "要在浏览器中打开 D2RLoader 的 Discord 邀请链接吗？"
+		"zhCN": "要在浏览器中打开 D2RLoader 的 Discord 邀请链接吗？",
+		"viVN": "Mở liên kết mời Discord của D2RLoader trong trình duyệt?"
 	},
 	{
 		"Key": "D2RLoaderKofiPrompt",
@@ -1389,7 +1475,8 @@
 		"jaJP": "Open the D2RLoader Ko-fi page in your browser?",
 		"ptBR": "Open the D2RLoader Ko-fi page in your browser?",
 		"ruRU": "Open the D2RLoader Ko-fi page in your browser?",
-		"zhCN": "要在浏览器中打开 D2RLoader 的 Ko-fi 页面吗？"
+		"zhCN": "要在浏览器中打开 D2RLoader 的 Ko-fi 页面吗？",
+		"viVN": "Mở trang Ko-fi của D2RLoader trong trình duyệt?"
 	},
 	{
 		"Key": "D2RLoaderModBinRebuiltWarning",
@@ -1405,7 +1492,8 @@
 		"jaJP": "This mod was made for a different version of Diablo II: Resurrected, so D2RLoader rebuilt its data for your current game version. Some parts of the mod may still behave differently than expected.",
 		"ptBR": "This mod was made for a different version of Diablo II: Resurrected, so D2RLoader rebuilt its data for your current game version. Some parts of the mod may still behave differently than expected.",
 		"ruRU": "This mod was made for a different version of Diablo II: Resurrected, so D2RLoader rebuilt its data for your current game version. Some parts of the mod may still behave differently than expected.",
-		"zhCN": "警告：此模组的数据是为不同版本的《暗黑破坏神II：狱火重生》所建立的。D2RLoader 已为当前游戏版本更新模组数据，但模组的某些部分仍可能与预期有所差异。"
+		"zhCN": "警告：此模组的数据是为不同版本的《暗黑破坏神II：狱火重生》所建立的。D2RLoader 已为当前游戏版本更新模组数据，但模组的某些部分仍可能与预期有所差异。",
+		"viVN": "Mod này được tạo cho phiên bản Diablo II: Resurrected khác, nên D2RLoader đã dựng lại dữ liệu cho phiên bản hiện tại. Một số phần có thể hoạt động khác dự kiến."
 	},
 	{
 		"Key": "D2RLoaderSettingsAlwaysGenerateNewMaps",
@@ -1421,7 +1509,8 @@
 		"jaJP": "Generate new map layouts",
 		"ptBR": "Generate new map layouts",
 		"ruRU": "Generate new map layouts",
-		"zhCN": "生成新地图布局"
+		"zhCN": "生成新地图布局",
+		"viVN": "Tạo sơ đồ bản đồ mới"
 	},
 	{
 		"Key": "D2RLoaderSettingsAlwaysGenerateNewMapsTooltip",
@@ -1437,7 +1526,8 @@
 		"jaJP": "Generates a new map layout when loading an offline character.\nTurn this off to keep the character's current map layout.",
 		"ptBR": "Generates a new map layout when loading an offline character.\nTurn this off to keep the character's current map layout.",
 		"ruRU": "Generates a new map layout when loading an offline character.\nTurn this off to keep the character's current map layout.",
-		"zhCN": "加载离线角色时生成新的地图布局。\n关闭此选项以保留角色当前的地图布局。"
+		"zhCN": "加载离线角色时生成新的地图布局。\n关闭此选项以保留角色当前的地图布局。",
+		"viVN": "Tạo sơ đồ bản đồ mới khi tải nhân vật ngoại tuyến.\nTắt tính năng này để giữ nguyên sơ đồ bản đồ hiện tại của nhân vật."
 	},
 	{
 		"Key": "D2RLoaderCharacterStatusModded",
@@ -1453,7 +1543,8 @@
 		"jaJP": "Soft-modded",
 		"ptBR": "Soft-modded",
 		"ruRU": "Soft-modded",
-		"zhCN": "软模组"
+		"zhCN": "软模组",
+		"viVN": "Soft-modded"
 	},
 	{
 		"Key": "D2RLoaderCharacterStatusPlugins",
@@ -1469,7 +1560,8 @@
 		"jaJP": "Plugins",
 		"ptBR": "Plugins",
 		"ruRU": "Plugins",
-		"zhCN": "插件"
+		"zhCN": "插件",
+		"viVN": "Plugins"
 	},
 	{
 		"Key": "D2RLoaderGroundSocketCount",
@@ -1485,7 +1577,8 @@
 		"jaJP": " \ue07e0[\ue07e4+%d\ue07e0]",
 		"ptBR": " \ue07e0[\ue07e4+%d\ue07e0]",
 		"ruRU": " \ue07e0[\ue07e4+%d\ue07e0]",
-		"zhCN": " \ue07e0[\ue07e4+%d\ue07e0]"
+		"zhCN": " \ue07e0[\ue07e4+%d\ue07e0]",
+		"viVN": " \ue07e0[\ue07e4+%d\ue07e0]"
 	},
 	{
 		"Key": "D2RLoaderWebsitePrompt",
@@ -1501,7 +1594,8 @@
 		"jaJP": "Open the D2RLoader website in your browser?",
 		"ptBR": "Open the D2RLoader website in your browser?",
 		"ruRU": "Open the D2RLoader website in your browser?",
-		"zhCN": "要在浏览器中打开 D2RLoader 网站吗？"
+		"zhCN": "要在浏览器中打开 D2RLoader 网站吗？",
+		"viVN": "Mở trang web D2RLoader trong trình duyệt?"
 	},
 	{
 		"Key": "D2RLoaderItemTooltipRangeHint",
@@ -1517,7 +1611,8 @@
 		"jaJP": "Hold Ctrl to Show Ranges",
 		"ptBR": "Hold Ctrl to Show Ranges",
 		"ruRU": "Hold Ctrl to Show Ranges",
-		"zhCN": "按住 Ctrl 键显示数值范围"
+		"zhCN": "按住 Ctrl 键显示数值范围",
+		"viVN": "Giữ Ctrl để hiện khoảng chỉ số"
 	},
 	{
 		"Key": "D2RLoaderControllerPromptItemRanges",
@@ -1533,7 +1628,8 @@
 		"jaJP": "Show Ranges",
 		"ptBR": "Show Ranges",
 		"ruRU": "Show Ranges",
-		"zhCN": "显示数值范围"
+		"zhCN": "显示数值范围",
+		"viVN": "Hiện khoảng chỉ số"
 	},
 	{
 		"Key": "D2RLoaderSettingsItemStatRanges",
@@ -1549,7 +1645,8 @@
 		"jaJP": "Item Stat Ranges",
 		"ptBR": "Item Stat Ranges",
 		"ruRU": "Item Stat Ranges",
-		"zhCN": "物品数值范围"
+		"zhCN": "物品数值范围",
+		"viVN": "Khoảng chỉ số trang bị"
 	},
 	{
 		"Key": "D2RLoaderSettingsItemStatRangesTooltip",
@@ -1565,7 +1662,8 @@
 		"jaJP": "Hold Ctrl or the controller’s right trigger to see the possible stat rolls for an item.",
 		"ptBR": "Hold Ctrl or the controller’s right trigger to see the possible stat rolls for an item.",
 		"ruRU": "Hold Ctrl or the controller’s right trigger to see the possible stat rolls for an item.",
-		"zhCN": "按住 Ctrl 键或手柄右扳机可查看物品可能的数值范围。"
+		"zhCN": "按住 Ctrl 键或手柄右扳机可查看物品可能的数值范围。",
+		"viVN": "Giữ Ctrl hoặc cò phải tay cầm để xem các mức chỉ số có thể xuất hiện của trang bị."
 	},
 	{
 		"Key": "D2RLoaderMaximumSockets",
@@ -1581,7 +1679,8 @@
 		"jaJP": "Max Sockets: %d",
 		"ptBR": "Max Sockets: %d",
 		"ruRU": "Max Sockets: %d",
-		"zhCN": "最大孔数：%d"
+		"zhCN": "最大孔数：%d",
+		"viVN": "Số lỗ tối đa: %d"
 	},
 	{
 		"Key": "D2RLoaderSettingsMaximumSockets",
@@ -1597,7 +1696,8 @@
 		"jaJP": "Maximum Sockets",
 		"ptBR": "Maximum Sockets",
 		"ruRU": "Maximum Sockets",
-		"zhCN": "最大孔数"
+		"zhCN": "最大孔数",
+		"viVN": "Số lỗ tối đa"
 	},
 	{
 		"Key": "D2RLoaderSettingsMaximumSocketsTooltip",
@@ -1613,7 +1713,8 @@
 		"jaJP": "Show the highest number of sockets each item can have.",
 		"ptBR": "Show the highest number of sockets each item can have.",
 		"ruRU": "Show the highest number of sockets each item can have.",
-		"zhCN": "显示每件物品可拥有的最大孔数。"
+		"zhCN": "显示每件物品可拥有的最大孔数。",
+		"viVN": "Hiển thị số lỗ tối đa mà mỗi trang bị có thể có."
 	},
 	{
 		"Key": "D2RLoaderSettingsPlayer",
@@ -1629,7 +1730,8 @@
 		"jaJP": "Player",
 		"ptBR": "Player",
 		"ruRU": "Player",
-		"zhCN": "玩家"
+		"zhCN": "玩家",
+		"viVN": "Người chơi"
 	},
 	{
 		"Key": "D2RLoaderSettingsRotwLegacyGraphicsKeybind",
@@ -1645,7 +1747,8 @@
 		"jaJP": "Enable RotW legacy graphics keybind",
 		"ptBR": "Enable RotW legacy graphics keybind",
 		"ruRU": "Enable RotW legacy graphics keybind",
-		"zhCN": "启用 RotW 经典版画面快捷键"
+		"zhCN": "启用 RotW 经典版画面快捷键",
+		"viVN": "Bật phím tắt đồ họa cổ điển cho RotW"
 	},
 	{
 		"Key": "D2RLoaderSettingsRotwLegacyGraphicsKeybindTooltip",
@@ -1661,7 +1764,8 @@
 		"jaJP": "Re-enables legacy graphics mode for RotW Expansion.",
 		"ptBR": "Re-enables legacy graphics mode for RotW Expansion.",
 		"ruRU": "Re-enables legacy graphics mode for RotW Expansion.",
-		"zhCN": "重新启用 RotW 扩展的经典版画面模式。"
+		"zhCN": "重新启用 RotW 扩展的经典版画面模式。",
+		"viVN": "Bật lại chế độ đồ họa cổ điển cho bản mở rộng RotW."
 	},
 	{
 		"Key": "D2RLoaderItemTooltipPossibleBaseRolls",
@@ -1677,7 +1781,8 @@
 		"jaJP": "possible base rolls:",
 		"ptBR": "possible base rolls:",
 		"ruRU": "possible base rolls:",
-		"zhCN": "可能的基础数值："
+		"zhCN": "可能的基础数值：",
+		"viVN": "chỉ số cơ bản có thể có:"
 	},
 	{
 		"Key": "D2RLoaderItemTooltipStaffModPossibility",
@@ -1693,7 +1798,8 @@
 		"jaJP": "+%s(1–3)%s to %s(1–3)%s Random %.*s Skills (%.*s only)",
 		"ptBR": "+%s(1–3)%s to %s(1–3)%s Random %.*s Skills (%.*s only)",
 		"ruRU": "+%s(1–3)%s to %s(1–3)%s Random %.*s Skills (%.*s only)",
-		"zhCN": "+%s(1–3)%s 至 %s(1–3)%s 随机 %.*s 技能（仅限 %.*s）"
+		"zhCN": "+%s(1–3)%s 至 %s(1–3)%s 随机 %.*s 技能（仅限 %.*s）",
+		"viVN": "+%s(1–3)%s đến %s(1–3)%s Kỹ năng %.*s ngẫu nhiên (chỉ dành cho %.*s)"
 	},
 	{
 		"Key": "D2RLoaderSettingsCheckForUpdates",
@@ -1709,7 +1815,8 @@
 		"jaJP": "Check for updates",
 		"ptBR": "Check for updates",
 		"ruRU": "Check for updates",
-		"zhCN": "检查更新"
+		"zhCN": "检查更新",
+		"viVN": "Kiểm tra cập nhật"
 	},
 	{
 		"Key": "D2RLoaderSettingsCheckForUpdatesTooltip",
@@ -1725,7 +1832,8 @@
 		"jaJP": "Check d2rloader.net for a newer D2RLoader release.",
 		"ptBR": "Check d2rloader.net for a newer D2RLoader release.",
 		"ruRU": "Check d2rloader.net for a newer D2RLoader release.",
-		"zhCN": "前往 d2rloader.net 检查是否有较新版本的 D2RLoader。"
+		"zhCN": "前往 d2rloader.net 检查是否有较新版本的 D2RLoader。",
+		"viVN": "Truy cập d2rloader.net để kiểm tra phiên bản D2RLoader mới hơn."
 	},
 	{
 		"Key": "D2RLoaderUpdateButton",
@@ -1741,7 +1849,8 @@
 		"jaJP": "Visit website",
 		"ptBR": "Visit website",
 		"ruRU": "Visit website",
-		"zhCN": "访问网站"
+		"zhCN": "访问网站",
+		"viVN": "Ghé thăm trang web"
 	},
 	{
 		"Key": "D2RLoaderEnvironmentMismatch",
@@ -1757,7 +1866,8 @@
 		"jaJP": "Your D2RLoader environment does not match the host.",
 		"ptBR": "Your D2RLoader environment does not match the host.",
 		"ruRU": "Your D2RLoader environment does not match the host.",
-		"zhCN": "您的 D2RLoader 环境与主机不匹配。"
+		"zhCN": "您的 D2RLoader 环境与主机不匹配。",
+		"viVN": "Môi trường D2RLoader của bạn không khớp với máy chủ."
 	},
 	{
 		"Key": "D2RLoaderBackupTab",
@@ -1773,7 +1883,8 @@
 		"jaJP": "Backup",
 		"ptBR": "Backup",
 		"ruRU": "Backup",
-		"zhCN": "备份"
+		"zhCN": "备份",
+		"viVN": "Sao lưu"
 	},
 	{
 		"Key": "D2RLoaderBackupAutomaticTitle",
@@ -1789,7 +1900,8 @@
 		"jaJP": "Automatic backups",
 		"ptBR": "Automatic backups",
 		"ruRU": "Automatic backups",
-		"zhCN": "自动备份"
+		"zhCN": "自动备份",
+		"viVN": "Tự động sao lưu"
 	},
 	{
 		"Key": "D2RLoaderBackupsEnabled",
@@ -1805,7 +1917,8 @@
 		"jaJP": "Enable automatic backups",
 		"ptBR": "Enable automatic backups",
 		"ruRU": "Enable automatic backups",
-		"zhCN": "启用自动备份"
+		"zhCN": "启用自动备份",
+		"viVN": "Bật tự động sao lưu"
 	},
 	{
 		"Key": "D2RLoaderBackupsEnabledTooltip",
@@ -1821,7 +1934,8 @@
 		"jaJP": "Create one backup the first time a character saves during each play session.",
 		"ptBR": "Create one backup the first time a character saves during each play session.",
 		"ruRU": "Create one backup the first time a character saves during each play session.",
-		"zhCN": "在每次游戏会话中首次保存角色时创建一个备份。"
+		"zhCN": "在每次游戏会话中首次保存角色时创建一个备份。",
+		"viVN": "Tạo một bản sao lưu trong lần đầu tiên nhân vật lưu dữ liệu ở mỗi phiên chơi."
 	},
 	{
 		"Key": "D2RLoaderBackupRetainedSessions",
@@ -1837,7 +1951,8 @@
 		"jaJP": "Max backup limits",
 		"ptBR": "Max backup limits",
 		"ruRU": "Max backup limits",
-		"zhCN": "最大备份数量"
+		"zhCN": "最大备份数量",
+		"viVN": "Giới hạn số bản sao lưu tối đa"
 	},
 	{
 		"Key": "D2RLoaderBackupRetainedSessionsTooltip",
@@ -1853,7 +1968,8 @@
 		"jaJP": "Keep this many backups for each character and shared stash.",
 		"ptBR": "Keep this many backups for each character and shared stash.",
 		"ruRU": "Keep this many backups for each character and shared stash.",
-		"zhCN": "为每个角色和共享储物箱保留指定数量的备份。"
+		"zhCN": "为每个角色和共享储物箱保留指定数量的备份。",
+		"viVN": "Giữ lại số lượng bản sao lưu này cho mỗi nhân vật và hòm đồ chung."
 	},
 	{
 		"Key": "D2RLoaderBackupSharedStashes",
@@ -1869,7 +1985,8 @@
 		"jaJP": "Include shared stashes",
 		"ptBR": "Include shared stashes",
 		"ruRU": "Include shared stashes",
-		"zhCN": "包含共享储物箱"
+		"zhCN": "包含共享储物箱",
+		"viVN": "Bao gồm hòm đồ chung"
 	},
 	{
 		"Key": "D2RLoaderBackupSharedStashesTooltip",
@@ -1885,7 +2002,8 @@
 		"jaJP": "Back up the matching softcore or hardcore shared stash at the same time.",
 		"ptBR": "Back up the matching softcore or hardcore shared stash at the same time.",
 		"ruRU": "Back up the matching softcore or hardcore shared stash at the same time.",
-		"zhCN": "同时备份对应的软核心或硬核心共享储物箱。"
+		"zhCN": "同时备份对应的软核心或硬核心共享储物箱。",
+		"viVN": "Đồng thời sao lưu hòm đồ chung softcore hoặc hardcore tương ứng."
 	},
 	{
 		"Key": "D2RLoaderBackupRestoreTitle",
@@ -1901,7 +2019,8 @@
 		"jaJP": "Restore a backup",
 		"ptBR": "Restore a backup",
 		"ruRU": "Restore a backup",
-		"zhCN": "恢复备份"
+		"zhCN": "恢复备份",
+		"viVN": "Khôi phục bản sao lưu"
 	},
 	{
 		"Key": "D2RLoaderBackupOpenFolder",
@@ -1917,7 +2036,8 @@
 		"jaJP": "Open backup folder",
 		"ptBR": "Open backup folder",
 		"ruRU": "Open backup folder",
-		"zhCN": "打开备份文件夹"
+		"zhCN": "打开备份文件夹",
+		"viVN": "Mở thư mục sao lưu"
 	},
 	{
 		"Key": "D2RLoaderBackupCreateSnapshot",
@@ -1933,7 +2053,8 @@
 		"jaJP": "Create Backup",
 		"ptBR": "Create Backup",
 		"ruRU": "Create Backup",
-		"zhCN": "创建备份"
+		"zhCN": "创建备份",
+		"viVN": "Tạo bản sao lưu"
 	},
 	{
 		"Key": "D2RLoaderBackupCreateSnapshotTooltip",
@@ -1949,7 +2070,8 @@
 		"jaJP": "Create a backup of the selected current save on disk.",
 		"ptBR": "Create a backup of the selected current save on disk.",
 		"ruRU": "Create a backup of the selected current save on disk.",
-		"zhCN": "在磁盘上为所选的当前存档创建一个备份。"
+		"zhCN": "在磁盘上为所选的当前存档创建一个备份。",
+		"viVN": "Tạo bản sao lưu cho tệp lưu hiện tại được chọn trên ổ đĩa."
 	},
 	{
 		"Key": "D2RLoaderBackupArchived",
@@ -1965,7 +2087,8 @@
 		"jaJP": "Archived",
 		"ptBR": "Archived",
 		"ruRU": "Archived",
-		"zhCN": "已归档"
+		"zhCN": "已归档",
+		"viVN": "Đã lưu trữ"
 	},
 	{
 		"Key": "D2RLoaderBackupCharacters",
@@ -1981,7 +2104,8 @@
 		"jaJP": "Characters",
 		"ptBR": "Characters",
 		"ruRU": "Characters",
-		"zhCN": "角色"
+		"zhCN": "角色",
+		"viVN": "Nhân vật"
 	},
 	{
 		"Key": "D2RLoaderBackupSharedStashesShort",
@@ -1997,7 +2121,8 @@
 		"jaJP": "Shared stashes",
 		"ptBR": "Shared stashes",
 		"ruRU": "Shared stashes",
-		"zhCN": "共享储物箱"
+		"zhCN": "共享储物箱",
+		"viVN": "Hòm đồ chung"
 	},
 	{
 		"Key": "D2RLoaderBackupNoSources",
@@ -2013,7 +2138,8 @@
 		"jaJP": "No backups found here.",
 		"ptBR": "No backups found here.",
 		"ruRU": "No backups found here.",
-		"zhCN": "此处未找到备份。"
+		"zhCN": "此处未找到备份。",
+		"viVN": "Không tìm thấy bản sao lưu nào ở đây."
 	},
 	{
 		"Key": "D2RLoaderBackupNoCheckpoints",
@@ -2029,7 +2155,8 @@
 		"jaJP": "Select a character or shared stash to view its backups.",
 		"ptBR": "Select a character or shared stash to view its backups.",
 		"ruRU": "Select a character or shared stash to view its backups.",
-		"zhCN": "选择一个角色或共享储物箱以查看其备份。"
+		"zhCN": "选择一个角色或共享储物箱以查看其备份。",
+		"viVN": "Chọn một nhân vật hoặc hòm đồ chung để xem bản sao lưu."
 	},
 	{
 		"Key": "D2RLoaderBackupRestore",
@@ -2045,7 +2172,8 @@
 		"jaJP": "Restore",
 		"ptBR": "Restore",
 		"ruRU": "Restore",
-		"zhCN": "恢复"
+		"zhCN": "恢复",
+		"viVN": "Khôi phục"
 	},
 	{
 		"Key": "D2RLoaderBackupCurrentSave",
@@ -2061,7 +2189,8 @@
 		"jaJP": "Current save",
 		"ptBR": "Current save",
 		"ruRU": "Current save",
-		"zhCN": "当前存档"
+		"zhCN": "当前存档",
+		"viVN": "Bản lưu hiện tại"
 	},
 	{
 		"Key": "D2RLoaderBackupCurrentStash",
@@ -2077,7 +2206,8 @@
 		"jaJP": "Current stash",
 		"ptBR": "Current stash",
 		"ruRU": "Current stash",
-		"zhCN": "当前储物箱"
+		"zhCN": "当前储物箱",
+		"viVN": "Hòm đồ hiện tại"
 	},
 	{
 		"Key": "D2RLoaderBackupNoCharacterSnapshots",
@@ -2093,7 +2223,8 @@
 		"jaJP": "No backups for this character yet.",
 		"ptBR": "No backups for this character yet.",
 		"ruRU": "No backups for this character yet.",
-		"zhCN": "此角色尚无备份。"
+		"zhCN": "此角色尚无备份。",
+		"viVN": "Chưa có bản sao lưu nào cho nhân vật này."
 	},
 	{
 		"Key": "D2RLoaderBackupNoStashSnapshots",
@@ -2109,7 +2240,8 @@
 		"jaJP": "No backups for this shared stash yet.",
 		"ptBR": "No backups for this shared stash yet.",
 		"ruRU": "No backups for this shared stash yet.",
-		"zhCN": "此共享储物箱尚无备份。"
+		"zhCN": "此共享储物箱尚无备份。",
+		"viVN": "Chưa có bản sao lưu nào cho hòm đồ chung này."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerTitle",
@@ -2125,7 +2257,8 @@
 		"jaJP": "Multiplayer",
 		"ptBR": "Multiplayer",
 		"ruRU": "Multiplayer",
-		"zhCN": "多人游戏"
+		"zhCN": "多人游戏",
+		"viVN": "Nhiều người chơi"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerBrowseGames",
@@ -2141,7 +2274,8 @@
 		"jaJP": "Browse Games",
 		"ptBR": "Browse Games",
 		"ruRU": "Browse Games",
-		"zhCN": "房间列表"
+		"zhCN": "房间列表",
+		"viVN": "Tìm phòng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerIpAddress",
@@ -2157,7 +2291,8 @@
 		"jaJP": "Public IP",
 		"ptBR": "Public IP",
 		"ruRU": "Public IP",
-		"zhCN": "公共IP"
+		"zhCN": "公共IP",
+		"viVN": "IP công khai"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerNotAvailable",
@@ -2173,7 +2308,8 @@
 		"jaJP": "Not available",
 		"ptBR": "Not available",
 		"ruRU": "Not available",
-		"zhCN": "不可用"
+		"zhCN": "不可用",
+		"viVN": "Không khả dụng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerCopyIpAddress",
@@ -2189,7 +2325,8 @@
 		"jaJP": "Copy public IP",
 		"ptBR": "Copy public IP",
 		"ruRU": "Copy public IP",
-		"zhCN": "复制公网IP"
+		"zhCN": "复制公网IP",
+		"viVN": "Sao chép IP công khai"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerCopied",
@@ -2205,7 +2342,8 @@
 		"jaJP": "Copied!",
 		"ptBR": "Copied!",
 		"ruRU": "Copied!",
-		"zhCN": "已复制!"
+		"zhCN": "已复制!",
+		"viVN": "Đã sao chép!"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerExternalAddressUnavailable",
@@ -2221,7 +2359,8 @@
 		"jaJP": "Public IP is not available",
 		"ptBR": "Public IP is not available",
 		"ruRU": "Public IP is not available",
-		"zhCN": "公网IP不可用"
+		"zhCN": "公网IP不可用",
+		"viVN": "IP công khai không khả dụng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHosting",
@@ -2237,7 +2376,8 @@
 		"jaJP": "Hosting",
 		"ptBR": "Hosting",
 		"ruRU": "Hosting",
-		"zhCN": "房主"
+		"zhCN": "房主",
+		"viVN": "Chủ phòng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingRetryTooltip",
@@ -2253,7 +2393,8 @@
 		"jaJP": "Click the status orb to check again.",
 		"ptBR": "Click the status orb to check again.",
 		"ruRU": "Click the status orb to check again.",
-		"zhCN": "点击状态以便再次检查."
+		"zhCN": "点击状态以便再次检查.",
+		"viVN": "Nhấp vào biểu tượng trạng thái để kiểm tra lại."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerFilterDifficulty",
@@ -2269,7 +2410,8 @@
 		"jaJP": "Filter by difficulty",
 		"ptBR": "Filter by difficulty",
 		"ruRU": "Filter by difficulty",
-		"zhCN": "按难度筛选"
+		"zhCN": "按难度筛选",
+		"viVN": "Lọc theo độ khó"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerShowAllGameTypes",
@@ -2285,7 +2427,8 @@
 		"jaJP": "Show all game types",
 		"ptBR": "Show all game types",
 		"ruRU": "Show all game types",
-		"zhCN": "显示所有房间类型"
+		"zhCN": "显示所有房间类型",
+		"viVN": "Hiện tất cả loại phòng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerShowVanillaGames",
@@ -2301,7 +2444,8 @@
 		"jaJP": "Show only Vanilla games",
 		"ptBR": "Show only Vanilla games",
 		"ruRU": "Show only Vanilla games",
-		"zhCN": "只显示原版房间"
+		"zhCN": "只显示原版房间",
+		"viVN": "Chỉ hiện phòng Vanilla"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerShowModdedGames",
@@ -2317,7 +2461,8 @@
 		"jaJP": "Show only Modded games",
 		"ptBR": "Show only Modded games",
 		"ruRU": "Show only Modded games",
-		"zhCN": "只显示MOD房间"
+		"zhCN": "只显示MOD房间",
+		"viVN": "Chỉ hiện phòng có Mod"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerShowTerrorizedGames",
@@ -2333,7 +2478,8 @@
 		"jaJP": "Show only Terrorized games",
 		"ptBR": "Show only Terrorized games",
 		"ruRU": "Show only Terrorized games",
-		"zhCN": "只显示恐怖地带房间"
+		"zhCN": "只显示恐怖地带房间",
+		"viVN": "Chỉ hiện phòng có Terror Zone"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHideTerrorizedGames",
@@ -2349,7 +2495,8 @@
 		"jaJP": "Hide Terrorized games",
 		"ptBR": "Hide Terrorized games",
 		"ruRU": "Hide Terrorized games",
-		"zhCN": "隐藏恐怖地带房间"
+		"zhCN": "隐藏恐怖地带房间",
+		"viVN": "Ẩn phòng có Terror Zone"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerRefreshGames",
@@ -2365,7 +2512,8 @@
 		"jaJP": "Refresh games",
 		"ptBR": "Refresh games",
 		"ruRU": "Refresh games",
-		"zhCN": "刷新房间"
+		"zhCN": "刷新房间",
+		"viVN": "Làm mới danh sách phòng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerAntiCheatEnabledTooltip",
@@ -2381,7 +2529,8 @@
 		"jaJP": "This game has anti-cheat protection enabled.",
 		"ptBR": "This game has anti-cheat protection enabled.",
 		"ruRU": "This game has anti-cheat protection enabled.",
-		"zhCN": "此房间启用了反作弊保护."
+		"zhCN": "此房间启用了反作弊保护.",
+		"viVN": "Phòng này đã bật tính năng chống gian lận."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerTerrorZonesEnabledTooltip",
@@ -2397,7 +2546,8 @@
 		"jaJP": "This game has Terror Zones enabled.",
 		"ptBR": "This game has Terror Zones enabled.",
 		"ruRU": "This game has Terror Zones enabled.",
-		"zhCN": "此房间激活了恐怖地带."
+		"zhCN": "此房间激活了恐怖地带.",
+		"viVN": "Phòng này đã kích hoạt Terror Zones."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerNoGamesAdvertised",
@@ -2413,7 +2563,8 @@
 		"jaJP": "No games are being advertised yet.\nYou can refresh the list or join directly by Game ID or address.",
 		"ptBR": "No games are being advertised yet.\nYou can refresh the list or join directly by Game ID or address.",
 		"ruRU": "No games are being advertised yet.\nYou can refresh the list or join directly by Game ID or address.",
-		"zhCN": "目前没有房间.\n你可以刷新或以房间ID和IP地址直接加入."
+		"zhCN": "目前没有房间.\n你可以刷新或以房间ID和IP地址直接加入.",
+		"viVN": "Hiện chưa có phòng nào được công khai.\nBạn có thể làm mới danh sách hoặc tham gia trực tiếp bằng ID phòng hoặc địa chỉ IP."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerSelectGame",
@@ -2429,7 +2580,8 @@
 		"jaJP": "Select a game",
 		"ptBR": "Select a game",
 		"ruRU": "Select a game",
-		"zhCN": "选择一个房间"
+		"zhCN": "选择一个房间",
+		"viVN": "Chọn một phòng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerGameInfo",
@@ -2445,7 +2597,8 @@
 		"jaJP": "Game Info",
 		"ptBR": "Game Info",
 		"ruRU": "Game Info",
-		"zhCN": "房间信息"
+		"zhCN": "房间信息",
+		"viVN": "Thông tin phòng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerNoGameSelected",
@@ -2461,7 +2614,8 @@
 		"jaJP": "No game selected.",
 		"ptBR": "No game selected.",
 		"ruRU": "No game selected.",
-		"zhCN": "未选择房间."
+		"zhCN": "未选择房间.",
+		"viVN": "Chưa chọn phòng nào."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerGameId",
@@ -2477,7 +2631,8 @@
 		"jaJP": "Game ID",
 		"ptBR": "Game ID",
 		"ruRU": "Game ID",
-		"zhCN": "房间ID"
+		"zhCN": "房间ID",
+		"viVN": "ID phòng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerModStatus",
@@ -2493,7 +2648,8 @@
 		"jaJP": "Mod Status",
 		"ptBR": "Mod Status",
 		"ruRU": "Mod Status",
-		"zhCN": "Mod状态"
+		"zhCN": "Mod状态",
+		"viVN": "Trạng thái Mod"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerGameDetails",
@@ -2509,7 +2665,8 @@
 		"jaJP": "Game Details",
 		"ptBR": "Game Details",
 		"ruRU": "Game Details",
-		"zhCN": "房间细节"
+		"zhCN": "房间细节",
+		"viVN": "Chi tiết phòng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerLoaderVersion",
@@ -2525,7 +2682,8 @@
 		"jaJP": "D2RLoader Version",
 		"ptBR": "D2RLoader Version",
 		"ruRU": "D2RLoader Version",
-		"zhCN": "D2RLoader 版本"
+		"zhCN": "D2RLoader 版本",
+		"viVN": "Phiên bản D2RLoader"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerActiveMod",
@@ -2541,7 +2699,8 @@
 		"jaJP": "Active Mod",
 		"ptBR": "Active Mod",
 		"ruRU": "Active Mod",
-		"zhCN": "激活Mod"
+		"zhCN": "激活Mod",
+		"viVN": "Mod đang kích hoạt"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerVersion",
@@ -2557,7 +2716,8 @@
 		"jaJP": "Version",
 		"ptBR": "Version",
 		"ruRU": "Version",
-		"zhCN": "版本"
+		"zhCN": "版本",
+		"viVN": "Phiên bản"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerDirectJoin",
@@ -2573,7 +2733,8 @@
 		"jaJP": "Direct Join",
 		"ptBR": "Direct Join",
 		"ruRU": "Direct Join",
-		"zhCN": "直接加入"
+		"zhCN": "直接加入",
+		"viVN": "Tham gia trực tiếp"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerGamePassword",
@@ -2589,7 +2750,8 @@
 		"jaJP": "Game Password",
 		"ptBR": "Game Password",
 		"ruRU": "Game Password",
-		"zhCN": "房间密码"
+		"zhCN": "房间密码",
+		"viVN": "Mật khẩu phòng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerGameDescription",
@@ -2605,7 +2767,8 @@
 		"jaJP": "Game Description",
 		"ptBR": "Game Description",
 		"ruRU": "Game Description",
-		"zhCN": "房间简介"
+		"zhCN": "房间简介",
+		"viVN": "Mô tả phòng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerUnlistedTooltip",
@@ -2621,7 +2784,8 @@
 		"jaJP": "Do not show this game\nin the game browser.",
 		"ptBR": "Do not show this game\nin the game browser.",
 		"ruRU": "Do not show this game\nin the game browser.",
-		"zhCN": "不在房间列表显示此房间."
+		"zhCN": "不在房间列表显示此房间.",
+		"viVN": "Không hiển thị phòng này\ntrong danh sách tìm kiếm."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerUnlistedGame",
@@ -2637,7 +2801,8 @@
 		"jaJP": "Unlisted",
 		"ptBR": "Unlisted",
 		"ruRU": "Unlisted",
-		"zhCN": "未列出"
+		"zhCN": "未列出",
+		"viVN": "Không công khai"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerGameRules",
@@ -2653,7 +2818,8 @@
 		"jaJP": "Game Rules",
 		"ptBR": "Game Rules",
 		"ruRU": "Game Rules",
-		"zhCN": "房间规则"
+		"zhCN": "房间规则",
+		"viVN": "Quy tắc phòng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerRejectCheatedItemsTooltip",
@@ -2669,7 +2835,8 @@
 		"jaJP": "Not implemented - Coming soon!",
 		"ptBR": "Not implemented - Coming soon!",
 		"ruRU": "Not implemented - Coming soon!",
-		"zhCN": "未实装 - 即将到来!"
+		"zhCN": "未实装 - 即将到来!",
+		"viVN": "Chưa hỗ trợ - Sắp ra mắt!"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerAntiCheatProtection",
@@ -2685,7 +2852,8 @@
 		"jaJP": "Anti-Cheat Protection",
 		"ptBR": "Anti-Cheat Protection",
 		"ruRU": "Anti-Cheat Protection",
-		"zhCN": "反作弊保护"
+		"zhCN": "反作弊保护",
+		"viVN": "Bảo vệ chống gian lận"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerDirectJoinAddress",
@@ -2701,7 +2869,8 @@
 		"jaJP": "Game ID or IP address",
 		"ptBR": "Game ID or IP address",
 		"ruRU": "Game ID or IP address",
-		"zhCN": "房间ID或IP地址"
+		"zhCN": "房间ID或IP地址",
+		"viVN": "ID phòng hoặc địa chỉ IP"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerNoGameSelectedDescription",
@@ -2717,7 +2886,8 @@
 		"jaJP": "No game selected.\nSelect a game from the list to view its details.",
 		"ptBR": "No game selected.\nSelect a game from the list to view its details.",
 		"ruRU": "No game selected.\nSelect a game from the list to view its details.",
-		"zhCN": "未选择房间.\n从列表中选择房间以查看细节."
+		"zhCN": "未选择房间.\n从列表中选择房间以查看细节.",
+		"viVN": "Chưa chọn phòng nào.\nHãy chọn một phòng từ danh sách để xem chi tiết."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerSelectedGameSummaryFormat",
@@ -2733,7 +2903,8 @@
 		"jaJP": "%s • %s • %zu/%d Players",
 		"ptBR": "%s • %s • %zu/%d Players",
 		"ruRU": "%s • %s • %zu/%d Players",
-		"zhCN": "%s • %s • %zu/%d 玩家"
+		"zhCN": "%s • %s • %zu/%d 玩家",
+		"viVN": "%s • %s • %zu/%d Người chơi"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerVanilla",
@@ -2749,7 +2920,8 @@
 		"jaJP": "Vanilla",
 		"ptBR": "Vanilla",
 		"ruRU": "Vanilla",
-		"zhCN": "原版"
+		"zhCN": "原版",
+		"viVN": "Nguyên bản"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerModded",
@@ -2765,7 +2937,8 @@
 		"jaJP": "Modded",
 		"ptBR": "Modded",
 		"ruRU": "Modded",
-		"zhCN": "应用MOD"
+		"zhCN": "应用MOD",
+		"viVN": "Có Mod"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerNoGamesMatchFilters",
@@ -2781,7 +2954,8 @@
 		"jaJP": "No games match your filters.\nGames hidden: %zu",
 		"ptBR": "No games match your filters.\nGames hidden: %zu",
 		"ruRU": "No games match your filters.\nGames hidden: %zu",
-		"zhCN": "没有房间符合您的筛选条件。\n已隐藏房间：%zu"
+		"zhCN": "没有房间符合您的筛选条件。\n已隐藏房间：%zu",
+		"viVN": "Không có phòng nào phù hợp với bộ lọc.\nSố phòng bị ẩn: %zu"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHideExternalAddress",
@@ -2797,7 +2971,8 @@
 		"jaJP": "Hide external address",
 		"ptBR": "Hide external address",
 		"ruRU": "Hide external address",
-		"zhCN": "隐藏公共地址"
+		"zhCN": "隐藏公共地址",
+		"viVN": "Ẩn địa chỉ công khai"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerShowExternalAddress",
@@ -2813,7 +2988,8 @@
 		"jaJP": "Show external address",
 		"ptBR": "Show external address",
 		"ruRU": "Show external address",
-		"zhCN": "显示外网地址"
+		"zhCN": "显示外网地址",
+		"viVN": "Hiện địa chỉ công khai"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerStatusIssues",
@@ -2829,7 +3005,8 @@
 		"jaJP": "Issues",
 		"ptBR": "Issues",
 		"ruRU": "Issues",
-		"zhCN": "问题"
+		"zhCN": "问题",
+		"viVN": "Có sự cố"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerStatusReady",
@@ -2845,7 +3022,8 @@
 		"jaJP": "Ready",
 		"ptBR": "Ready",
 		"ruRU": "Ready",
-		"zhCN": "准备"
+		"zhCN": "准备",
+		"viVN": "Sẵn sàng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerStatusUnverified",
@@ -2861,7 +3039,8 @@
 		"jaJP": "Unverified",
 		"ptBR": "Unverified",
 		"ruRU": "Unverified",
-		"zhCN": "未验证"
+		"zhCN": "未验证",
+		"viVN": "Chưa xác minh"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingReadyTooltip",
@@ -2877,7 +3056,8 @@
 		"jaJP": "An outside connection test confirmed that other players can join your hosted games.",
 		"ptBR": "An outside connection test confirmed that other players can join your hosted games.",
 		"ruRU": "An outside connection test confirmed that other players can join your hosted games.",
-		"zhCN": "外部连接测试已确认其他玩家可以加入您的房间."
+		"zhCN": "外部连接测试已确认其他玩家可以加入您的房间.",
+		"viVN": "Kiểm tra kết nối bên ngoài xác nhận rằng người chơi khác có thể tham gia phòng của bạn."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingUnknownIssueTooltip",
@@ -2893,7 +3073,8 @@
 		"jaJP": "Hosting could not be verified because an unknown connection problem was found.",
 		"ptBR": "Hosting could not be verified because an unknown connection problem was found.",
 		"ruRU": "Hosting could not be verified because an unknown connection problem was found.",
-		"zhCN": "发现未知连接问题,房间无法创建"
+		"zhCN": "发现未知连接问题,房间无法创建",
+		"viVN": "Không thể xác minh tính năng mở phòng do phát hiện sự cố kết nối không xác định."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingNoNetworkConnectionIssueTooltip",
@@ -2909,7 +3090,8 @@
 		"jaJP": "No usable internet connection was found. Reconnect before hosting.",
 		"ptBR": "No usable internet connection was found. Reconnect before hosting.",
 		"ruRU": "No usable internet connection was found. Reconnect before hosting.",
-		"zhCN": "未发现可用网络,请先连接网络再创建房间."
+		"zhCN": "未发现可用网络,请先连接网络再创建房间.",
+		"viVN": "Không tìm thấy kết nối internet khả dụng. Vui lòng kết nối lại trước khi mở phòng."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingPortInUseIssueTooltip",
@@ -2925,7 +3107,8 @@
 		"jaJP": "The hosting port is already in use. Close the other program or choose a different port.",
 		"ptBR": "The hosting port is already in use. Close the other program or choose a different port.",
 		"ruRU": "The hosting port is already in use. Close the other program or choose a different port.",
-		"zhCN": "房间端口已被占用.请关闭其他软件或选择其他端口."
+		"zhCN": "房间端口已被占用.请关闭其他软件或选择其他端口.",
+		"viVN": "Port mở phòng đang được sử dụng. Hãy đóng chương trình khác hoặc chọn cổng khác."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingFirewallBlockedIssueTooltip",
@@ -2941,7 +3124,8 @@
 		"jaJP": "Windows Firewall is blocking inbound connections on the hosting port. Check its inbound rules.",
 		"ptBR": "Windows Firewall is blocking inbound connections on the hosting port. Check its inbound rules.",
 		"ruRU": "Windows Firewall is blocking inbound connections on the hosting port. Check its inbound rules.",
-		"zhCN": "Windows防火墙正在阻止房间端口,请检查防火墙规则."
+		"zhCN": "Windows防火墙正在阻止房间端口,请检查防火墙规则.",
+		"viVN": "Tường lửa Windows đang chặn kết nối đến trên cổng mở phòng. Vui lòng kiểm tra quy tắc Inbound."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingFirewallMayBlockIssueTooltip",
@@ -2957,7 +3141,8 @@
 		"jaJP": "Windows Firewall has no matching allow rule for the hosting port. Allow D2RLoader through Windows Firewall.",
 		"ptBR": "Windows Firewall has no matching allow rule for the hosting port. Allow D2RLoader through Windows Firewall.",
 		"ruRU": "Windows Firewall has no matching allow rule for the hosting port. Allow D2RLoader through Windows Firewall.",
-		"zhCN": "Windows防火墙没有匹配的允许规则用于房间端口.请通过Windows防火墙允许D2RLoader."
+		"zhCN": "Windows防火墙没有匹配的允许规则用于房间端口.请通过Windows防火墙允许D2RLoader.",
+		"viVN": "Tường lửa Windows chưa có quy tắc cho phép cổng mở phòng. Hãy cho phép D2RLoader đi qua tường lửa Windows."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingExistingPortRuleIssueTooltip",
@@ -2973,7 +3158,8 @@
 		"jaJP": "Your router already has a forwarding rule for the hosting port. Update or remove that rule in your router settings.",
 		"ptBR": "Your router already has a forwarding rule for the hosting port. Update or remove that rule in your router settings.",
 		"ruRU": "Your router already has a forwarding rule for the hosting port. Update or remove that rule in your router settings.",
-		"zhCN": "您的路由器已存在针对主机端口的转发规则.请在路由器设置中修改或删除此规则."
+		"zhCN": "您的路由器已存在针对主机端口的转发规则.请在路由器设置中修改或删除此规则.",
+		"viVN": "Router của bạn đã có quy tắc chuyển tiếp cho cổng mở phòng. Hãy cập nhật hoặc xóa quy tắc đó trong cài đặt router."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingRouterConflictIssueTooltip",
@@ -2989,7 +3175,8 @@
 		"jaJP": "Your router reported a port forwarding conflict. Remove the conflicting rule or choose a different port.",
 		"ptBR": "Your router reported a port forwarding conflict. Remove the conflicting rule or choose a different port.",
 		"ruRU": "Your router reported a port forwarding conflict. Remove the conflicting rule or choose a different port.",
-		"zhCN": "您的路由器报告了一个转发冲突,请删除此规则或改用其他端口."
+		"zhCN": "您的路由器报告了一个转发冲突,请删除此规则或改用其他端口.",
+		"viVN": "Router báo cáo xung đột chuyển tiếp cổng. Hãy xóa quy tắc xung đột hoặc chọn cổng khác."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingRouterRejectedIssueTooltip",
@@ -3005,7 +3192,8 @@
 		"jaJP": "Your router refused automatic port setup. Enable automatic port mapping on the router or forward the port manually.",
 		"ptBR": "Your router refused automatic port setup. Enable automatic port mapping on the router or forward the port manually.",
 		"ruRU": "Your router refused automatic port setup. Enable automatic port mapping on the router or forward the port manually.",
-		"zhCN": "您的路由器拒绝了自动端口映射.请启用自动端口转发功能或在转发端口中手动添加该端口."
+		"zhCN": "您的路由器拒绝了自动端口映射.请启用自动端口转发功能或在转发端口中手动添加该端口.",
+		"viVN": "Router từ chối thiết lập cổng tự động. Hãy bật ánh xạ cổng tự động trên router hoặc mở cổng thủ công."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingManualPortForwardingIssueTooltip",
@@ -3021,7 +3209,8 @@
 		"jaJP": "Automatic port setup is unavailable. Forward the hosting port to this computer in your router settings.",
 		"ptBR": "Automatic port setup is unavailable. Forward the hosting port to this computer in your router settings.",
 		"ruRU": "Automatic port setup is unavailable. Forward the hosting port to this computer in your router settings.",
-		"zhCN": "自动端口设置不可用,请在路由器设置主机端口转发到此计算机."
+		"zhCN": "自动端口设置不可用,请在路由器设置主机端口转发到此计算机.",
+		"viVN": "Không thể thiết lập cổng tự động. Vui lòng chuyển tiếp cổng mở phòng đến máy tính này trong cài đặt router."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingUpstreamNatIssueTooltip",
@@ -3037,7 +3226,8 @@
 		"jaJP": "Your connection is behind another router or your internet provider's shared network. Forward the port through each router, or ask your provider for a public IPv4 address.",
 		"ptBR": "Your connection is behind another router or your internet provider's shared network. Forward the port through each router, or ask your provider for a public IPv4 address.",
 		"ruRU": "Your connection is behind another router or your internet provider's shared network. Forward the port through each router, or ask your provider for a public IPv4 address.",
-		"zhCN": "你的网络位于另一个区域网络,请在每一个区域网络设备上进行端口转发或从您的网络运营商处获取您的公网IPV4地址."
+		"zhCN": "你的网络位于另一个区域网络,请在每一个区域网络设备上进行端口转发或从您的网络运营商处获取您的公网IPV4地址.",
+		"viVN": "Kết nối của bạn nằm sau một router khác hoặc mạng NAT chia sẻ của nhà mạng. Hãy mở cổng qua từng router hoặc yêu cầu nhà mạng cấp địa chỉ IPv4 công khai."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingPortTargetsAnotherServiceIssueTooltip",
@@ -3053,7 +3243,8 @@
 		"jaJP": "The hosting port reaches another device or program. Change that forwarding rule or choose a different port.",
 		"ptBR": "The hosting port reaches another device or program. Change that forwarding rule or choose a different port.",
 		"ruRU": "The hosting port reaches another device or program. Change that forwarding rule or choose a different port.",
-		"zhCN": "房间端口连往另一个设备或程序,请更改端口转发规则或使用其他端口."
+		"zhCN": "房间端口连往另一个设备或程序,请更改端口转发规则或使用其他端口.",
+		"viVN": "Cổng mở phòng đang kết nối tới thiết bị hoặc ứng dụng khác. Hãy thay đổi quy tắc chuyển tiếp hoặc chọn cổng khác."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingOutsideUnreachableIssueTooltip",
@@ -3069,7 +3260,8 @@
 		"jaJP": "The hosting port could not be reached from the internet. Check your router and firewall settings.",
 		"ptBR": "The hosting port could not be reached from the internet. Check your router and firewall settings.",
 		"ruRU": "The hosting port could not be reached from the internet. Check your router and firewall settings.",
-		"zhCN": "房间端口无法从公网访问,请检查您的路由器及防火墙设置."
+		"zhCN": "房间端口无法从公网访问,请检查您的路由器及防火墙设置.",
+		"viVN": "Không thể truy cập cổng mở phòng từ internet. Vui lòng kiểm tra lại cài đặt router và tường lửa."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingListenerIssueTooltip",
@@ -3085,7 +3277,8 @@
 		"jaJP": "The game could not open the hosting port. Close other programs using it, then try again.",
 		"ptBR": "The game could not open the hosting port. Close other programs using it, then try again.",
 		"ruRU": "The game could not open the hosting port. Close other programs using it, then try again.",
-		"zhCN": "游戏无法使用主机端口,请关闭其他软件并再次尝试"
+		"zhCN": "游戏无法使用主机端口,请关闭其他软件并再次尝试",
+		"viVN": "Trò chơi không thể mở cổng máy chủ. Hãy đóng các ứng dụng khác đang dùng cổng này và thử lại."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingNotCheckedTooltip",
@@ -3101,7 +3294,8 @@
 		"jaJP": "Hosting has not been checked yet.",
 		"ptBR": "Hosting has not been checked yet.",
 		"ruRU": "Hosting has not been checked yet.",
-		"zhCN": "还未进行建房检查."
+		"zhCN": "还未进行建房检查.",
+		"viVN": "Chưa kiểm tra trạng thái mở phòng."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingServiceUnavailableTooltip",
@@ -3117,7 +3311,8 @@
 		"jaJP": "The outside connection test is unavailable right now.",
 		"ptBR": "The outside connection test is unavailable right now.",
 		"ruRU": "The outside connection test is unavailable right now.",
-		"zhCN": "外部连接测试不可用."
+		"zhCN": "外部连接测试不可用.",
+		"viVN": "Dịch vụ kiểm tra kết nối bên ngoài hiện không khả dụng."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingNetworkChangedTooltip",
@@ -3133,7 +3328,8 @@
 		"jaJP": "Your network changed while hosting was being checked.",
 		"ptBR": "Your network changed while hosting was being checked.",
 		"ruRU": "Your network changed while hosting was being checked.",
-		"zhCN": "建房检查时您的网络发生了变化."
+		"zhCN": "建房检查时您的网络发生了变化.",
+		"viVN": "Mạng của bạn đã thay đổi trong khi đang kiểm tra mở phòng."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingCheckCancelledTooltip",
@@ -3149,7 +3345,8 @@
 		"jaJP": "The hosting check stopped before it finished.",
 		"ptBR": "The hosting check stopped before it finished.",
 		"ruRU": "The hosting check stopped before it finished.",
-		"zhCN": "建房检查完成前终止了."
+		"zhCN": "建房检查完成前终止了.",
+		"viVN": "Quá trình kiểm tra mở phòng đã bị dừng trước khi hoàn tất."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingInternalErrorTooltip",
@@ -3165,7 +3362,8 @@
 		"jaJP": "The hosting check could not be completed because of an internal error.",
 		"ptBR": "The hosting check could not be completed because of an internal error.",
 		"ruRU": "The hosting check could not be completed because of an internal error.",
-		"zhCN": "因内部错误,建房检查无法完成."
+		"zhCN": "因内部错误,建房检查无法完成.",
+		"viVN": "Không thể hoàn thành kiểm tra mở phòng do lỗi nội bộ."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingRetryRemediationTooltip",
@@ -3181,7 +3379,8 @@
 		"jaJP": "The problem may be temporary.",
 		"ptBR": "The problem may be temporary.",
 		"ruRU": "The problem may be temporary.",
-		"zhCN": "问题可能是暂时的."
+		"zhCN": "问题可能是暂时的.",
+		"viVN": "Sự cố này có thể chỉ là tạm thời."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingAutomaticFixRemediationTooltip",
@@ -3197,7 +3396,8 @@
 		"jaJP": "D2RLoader can fix this automatically when you check again.",
 		"ptBR": "D2RLoader can fix this automatically when you check again.",
 		"ruRU": "D2RLoader can fix this automatically when you check again.",
-		"zhCN": "当再次检查时D2RLoader可以修复此问题."
+		"zhCN": "当再次检查时D2RLoader可以修复此问题.",
+		"viVN": "D2RLoader có thể tự động khắc phục điều này khi bạn kiểm tra lại."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingPlayerActionRemediationTooltip",
@@ -3213,7 +3413,8 @@
 		"jaJP": "You can fix this on your computer or network.",
 		"ptBR": "You can fix this on your computer or network.",
 		"ruRU": "You can fix this on your computer or network.",
-		"zhCN": "您可以在计算机设置或我那个罗设置中修复此问题."
+		"zhCN": "您可以在计算机设置或我那个罗设置中修复此问题.",
+		"viVN": "Bạn có thể tự khắc phục điều này trên máy tính hoặc cài đặt mạng của mình."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingAdministratorRemediationTooltip",
@@ -3229,7 +3430,8 @@
 		"jaJP": "This setting is controlled by an administrator, so you may need their help.",
 		"ptBR": "This setting is controlled by an administrator, so you may need their help.",
 		"ruRU": "This setting is controlled by an administrator, so you may need their help.",
-		"zhCN": "此设置由管理员控制,您可能需要他们的帮助."
+		"zhCN": "此设置由管理员控制,您可能需要他们的帮助.",
+		"viVN": "Thiết lập này do quản trị viên kiểm soát, bạn có thể cần sự trợ giúp từ họ."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerHostingCannotFixRemediationTooltip",
@@ -3245,7 +3447,8 @@
 		"jaJP": "D2RLoader cannot fix this automatically.",
 		"ptBR": "D2RLoader cannot fix this automatically.",
 		"ruRU": "D2RLoader cannot fix this automatically.",
-		"zhCN": "D2RLoader无法自动修复此问题."
+		"zhCN": "D2RLoader无法自动修复此问题.",
+		"viVN": "D2RLoader không thể tự động khắc phục sự cố này."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerVersionInformation",
@@ -3261,7 +3464,8 @@
 		"jaJP": "Version Information",
 		"ptBR": "Version Information",
 		"ruRU": "Version Information",
-		"zhCN": "版本信息"
+		"zhCN": "版本信息",
+		"viVN": "Thông tin phiên bản"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerD2RVersion",
@@ -3277,7 +3481,8 @@
 		"jaJP": "D2R Version",
 		"ptBR": "D2R Version",
 		"ruRU": "D2R Version",
-		"zhCN": "D2R 版本"
+		"zhCN": "D2R 版本",
+		"viVN": "Phiên bản D2R"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerModVersion",
@@ -3293,7 +3498,8 @@
 		"jaJP": "Mod Version",
 		"ptBR": "Mod Version",
 		"ruRU": "Mod Version",
-		"zhCN": "Mod 版本"
+		"zhCN": "Mod 版本",
+		"viVN": "Phiên bản Mod"
 	},
 	{
 		"Key": "D2RLoaderPartyGameId",
@@ -3309,7 +3515,8 @@
 		"jaJP": "Game ID",
 		"ptBR": "Game ID",
 		"ruRU": "Game ID",
-		"zhCN": "房间 ID"
+		"zhCN": "房间 ID",
+		"viVN": "ID phòng"
 	},
 	{
 		"Key": "D2RLoaderPartyPublicIp",
@@ -3325,7 +3532,8 @@
 		"jaJP": "Public IP",
 		"ptBR": "Public IP",
 		"ruRU": "Public IP",
-		"zhCN": "公网 IP"
+		"zhCN": "公网 IP",
+		"viVN": "IP công khai"
 	},
 	{
 		"Key": "D2RLoaderPartyLocalIp",
@@ -3341,7 +3549,8 @@
 		"jaJP": "Local IP",
 		"ptBR": "Local IP",
 		"ruRU": "Local IP",
-		"zhCN": "局域网 IP"
+		"zhCN": "局域网 IP",
+		"viVN": "IP cục bộ"
 	},
 	{
 		"Key": "D2RLoaderPartyShowIpTooltip",
@@ -3357,7 +3566,8 @@
 		"jaJP": "Show or hide IP address",
 		"ptBR": "Show or hide IP address",
 		"ruRU": "Show or hide IP address",
-		"zhCN": "显示或隐藏IP地址"
+		"zhCN": "显示或隐藏IP地址",
+		"viVN": "Hiện hoặc ẩn địa chỉ IP"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerLanOnly",
@@ -3373,7 +3583,8 @@
 		"jaJP": "LAN Only",
 		"ptBR": "LAN Only",
 		"ruRU": "LAN Only",
-		"zhCN": "限定局域网"
+		"zhCN": "限定局域网",
+		"viVN": "Chỉ mạng LAN"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerLanOnlyTooltip",
@@ -3389,7 +3600,8 @@
 		"jaJP": "Only allow players on your local network to join.\nRouter mapping and public listing are disabled.",
 		"ptBR": "Only allow players on your local network to join.\nRouter mapping and public listing are disabled.",
 		"ruRU": "Only allow players on your local network to join.\nRouter mapping and public listing are disabled.",
-		"zhCN": "只允许与您同处一个局域网的玩家加入.\n端口映射与公网列表已禁用."
+		"zhCN": "只允许与您同处一个局域网的玩家加入.\n端口映射与公网列表已禁用.",
+		"viVN": "Chỉ cho phép người chơi trong cùng mạng cục bộ tham gia.\nTính năng ánh xạ router và danh sách công khai sẽ bị tắt."
 	},
 	{
 		"Key": "D2RLoaderLevelDifferenceMismatch",
@@ -3405,7 +3617,8 @@
 		"jaJP": "Your character level is outside the game's allowed level difference.",
 		"ptBR": "Your character level is outside the game's allowed level difference.",
 		"ruRU": "Your character level is outside the game's allowed level difference.",
-		"zhCN": "您的角色等级超出了房间设置的等级差."
+		"zhCN": "您的角色等级超出了房间设置的等级差.",
+		"viVN": "Cấp độ nhân vật của bạn nằm ngoài phạm vi chênh lệch cấp độ cho phép của phòng."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerJoinFailedResolve",
@@ -3421,7 +3634,8 @@
 		"jaJP": "Unable to join this game.\nIt is no longer available, or the game service could not resolve it.",
 		"ptBR": "Unable to join this game.\nIt is no longer available, or the game service could not resolve it.",
 		"ruRU": "Unable to join this game.\nIt is no longer available, or the game service could not resolve it.",
-		"zhCN": "无法加入此房间.\n房间已无法访问或游戏服务无法识别该房间."
+		"zhCN": "无法加入此房间.\n房间已无法访问或游戏服务无法识别该房间.",
+		"viVN": "Không thể tham gia phòng này.\nPhòng không còn tồn tại hoặc dịch vụ trò chơi không thể phân giải."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerJoinFailedNoCharacter",
@@ -3437,7 +3651,8 @@
 		"jaJP": "Unable to join this game.\nSelect a character and try again.",
 		"ptBR": "Unable to join this game.\nSelect a character and try again.",
 		"ruRU": "Unable to join this game.\nSelect a character and try again.",
-		"zhCN": "无法加入此房间.\n选择角色并再此尝试."
+		"zhCN": "无法加入此房间.\n选择角色并再此尝试.",
+		"viVN": "Không thể tham gia phòng này.\nHãy chọn một nhân vật và thử lại."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerJoinFailedDifficulty",
@@ -3453,7 +3668,8 @@
 		"jaJP": "Unable to join this game.\nThe selected character has not unlocked this difficulty.",
 		"ptBR": "Unable to join this game.\nThe selected character has not unlocked this difficulty.",
 		"ruRU": "Unable to join this game.\nThe selected character has not unlocked this difficulty.",
-		"zhCN": "无法加入此房间.\n选择的角色还未解锁该难度."
+		"zhCN": "无法加入此房间.\n选择的角色还未解锁该难度.",
+		"viVN": "Không thể tham gia phòng này.\nNhân vật được chọn chưa mở khóa độ khó này."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerJoinFailedGameMode",
@@ -3469,7 +3685,8 @@
 		"jaJP": "Unable to join this game.\nThe character and host use different Classic, Expansion, or RotW modes.",
 		"ptBR": "Unable to join this game.\nThe character and host use different Classic, Expansion, or RotW modes.",
 		"ruRU": "Unable to join this game.\nThe character and host use different Classic, Expansion, or RotW modes.",
-		"zhCN": "无法加入此房间.\n该角色与房间使用不同资料片模式\n经典,毁灭之王或术士君临."
+		"zhCN": "无法加入此房间.\n该角色与房间使用不同资料片模式\n经典,毁灭之王或术士君临.",
+		"viVN": "Không thể tham gia phòng này.\nNhân vật và chủ phòng sử dụng các chế độ khác nhau (Classic, Expansion, hoặc RotW)."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerJoinFailedHardcore",
@@ -3485,7 +3702,8 @@
 		"jaJP": "Unable to join this game.\nThe character and host do not use the same Hardcore setting.",
 		"ptBR": "Unable to join this game.\nThe character and host do not use the same Hardcore setting.",
 		"ruRU": "Unable to join this game.\nThe character and host do not use the same Hardcore setting.",
-		"zhCN": "无法加入此房间.\n角色与房间未使用相同的专家模式设置."
+		"zhCN": "无法加入此房间.\n角色与房间未使用相同的专家模式设置.",
+		"viVN": "Không thể tham gia phòng này.\nNhân vật và chủ phòng không cùng thiết lập Hardcore."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerJoinFailedLevelDifference",
@@ -3501,7 +3719,8 @@
 		"jaJP": "Unable to join this game.\nThe character level is outside the host's allowed level difference.",
 		"ptBR": "Unable to join this game.\nThe character level is outside the host's allowed level difference.",
 		"ruRU": "Unable to join this game.\nThe character level is outside the host's allowed level difference.",
-		"zhCN": "无法加入此房间.\n角色等级超出了房主允许的等级差."
+		"zhCN": "无法加入此房间.\n角色等级超出了房主允许的等级差.",
+		"viVN": "Không thể tham gia phòng này.\nCấp độ nhân vật vượt quá khoảng chênh lệch cho phép của chủ phòng."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerJoinFailedMod",
@@ -3517,7 +3736,8 @@
 		"jaJP": "Unable to join this game.\nThe active mod does not match the host's mod.",
 		"ptBR": "Unable to join this game.\nThe active mod does not match the host's mod.",
 		"ruRU": "Unable to join this game.\nThe active mod does not match the host's mod.",
-		"zhCN": "无法加入此房间.\n使用的MOD与主机的MOD不匹配."
+		"zhCN": "无法加入此房间.\n使用的MOD与主机的MOD不匹配.",
+		"viVN": "Không thể tham gia phòng này.\nMod đang kích hoạt không khớp với mod của chủ phòng."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerJoinFailedConnection",
@@ -3533,7 +3753,8 @@
 		"jaJP": "Unable to join this game.\nThe host could not be reached at its advertised address.",
 		"ptBR": "Unable to join this game.\nThe host could not be reached at its advertised address.",
 		"ruRU": "Unable to join this game.\nThe host could not be reached at its advertised address.",
-		"zhCN": "无法加入此房间.\n无法连接到房间,因其公布的地址不可达."
+		"zhCN": "无法加入此房间.\n无法连接到房间,因其公布的地址不可达.",
+		"viVN": "Không thể tham gia phòng này.\nKhông thể kết nối tới chủ phòng qua địa chỉ công bố."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerJoinFailedLaunch",
@@ -3549,7 +3770,8 @@
 		"jaJP": "Unable to join this game.\nThe TCP/IP game could not be started.",
 		"ptBR": "Unable to join this game.\nThe TCP/IP game could not be started.",
 		"ruRU": "Unable to join this game.\nThe TCP/IP game could not be started.",
-		"zhCN": "无法加入此房间.\nTCP/IP房间无法启动."
+		"zhCN": "无法加入此房间.\nTCP/IP房间无法启动.",
+		"viVN": "Không thể tham gia phòng này.\nKhông thể khởi chạy trò chơi TCP/IP."
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapCurrentMod",
@@ -3565,7 +3787,8 @@
 		"jaJP": "Show Current Mod",
 		"ptBR": "Show Current Mod",
 		"ruRU": "Show Current Mod",
-		"zhCN": "显示当前Mod"
+		"zhCN": "显示当前Mod",
+		"viVN": "Hiện Mod hiện tại"
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapGameIdTooltip",
@@ -3581,7 +3804,8 @@
 		"jaJP": "Show the advertised Game ID below the current game name on the automap.",
 		"ptBR": "Show the advertised Game ID below the current game name on the automap.",
 		"ruRU": "Show the advertised Game ID below the current game name on the automap.",
-		"zhCN": "小地图当前房间名下方显示房间ID."
+		"zhCN": "小地图当前房间名下方显示房间ID.",
+		"viVN": "Hiện ID phòng bên dưới tên trò chơi hiện tại trên bản đồ tự động."
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapCurrentModTooltip",
@@ -3597,7 +3821,8 @@
 		"jaJP": "Show the active mod after the native automap details. D2RLoader is shown when no mod is active.",
 		"ptBR": "Show the active mod after the native automap details. D2RLoader is shown when no mod is active.",
 		"ruRU": "Show the active mod after the native automap details. D2RLoader is shown when no mod is active.",
-		"zhCN": "小地图详细信息下方显示MOD名称\n如无MOD,则显示D2RLoader."
+		"zhCN": "小地图详细信息下方显示MOD名称\n如无MOD,则显示D2RLoader.",
+		"viVN": "Hiện mod đang hoạt động sau chi tiết bản đồ gốc.\nD2RLoader sẽ hiển thị khi không có mod nào hoạt động."
 	},
 	{
 		"Key": "D2RLoaderAutomapVanilla",
@@ -3613,7 +3838,8 @@
 		"jaJP": "D2RLoader",
 		"ptBR": "D2RLoader",
 		"ruRU": "D2RLoader",
-		"zhCN": "D2RLoader"
+		"zhCN": "D2RLoader",
+		"viVN": "D2RLoader"
 	},
 	{
 		"Key": "D2RLoaderAutomapGameId",
@@ -3629,7 +3855,8 @@
 		"jaJP": "ID",
 		"ptBR": "ID",
 		"ruRU": "ID",
-		"zhCN": "ID"
+		"zhCN": "ID",
+		"viVN": "ID"
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapGameId",
@@ -3645,7 +3872,8 @@
 		"jaJP": "Show Game ID",
 		"ptBR": "Show Game ID",
 		"ruRU": "Show Game ID",
-		"zhCN": "显示房间ID"
+		"zhCN": "显示房间ID",
+		"viVN": "Hiện ID phòng"
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapAreaName",
@@ -3661,7 +3889,8 @@
 		"jaJP": "Show Area Name",
 		"ptBR": "Show Area Name",
 		"ruRU": "Show Area Name",
-		"zhCN": "显示区域名称"
+		"zhCN": "显示区域名称",
+		"viVN": "Hiện tên khu vực"
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapAreaNameTooltip",
@@ -3677,7 +3906,8 @@
 		"jaJP": "Show the current area name on the automap.",
 		"ptBR": "Show the current area name on the automap.",
 		"ruRU": "Show the current area name on the automap.",
-		"zhCN": "在小地图上显示当前区域名称."
+		"zhCN": "在小地图上显示当前区域名称.",
+		"viVN": "Hiện tên khu vực hiện tại trên bản đồ tự động."
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapGameVersion",
@@ -3693,7 +3923,8 @@
 		"jaJP": "Show Game Version",
 		"ptBR": "Show Game Version",
 		"ruRU": "Show Game Version",
-		"zhCN": "显示游戏版本"
+		"zhCN": "显示游戏版本",
+		"viVN": "Hiện phiên bản game"
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapGameVersionTooltip",
@@ -3709,7 +3940,8 @@
 		"jaJP": "Show the game version on the automap.",
 		"ptBR": "Show the game version on the automap.",
 		"ruRU": "Show the game version on the automap.",
-		"zhCN": "在小地图上显示游戏版本."
+		"zhCN": "在小地图上显示游戏版本.",
+		"viVN": "Hiện phiên bản game trên bản đồ tự động."
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapGameDifficulty",
@@ -3725,7 +3957,8 @@
 		"jaJP": "Show Difficulty",
 		"ptBR": "Show Difficulty",
 		"ruRU": "Show Difficulty",
-		"zhCN": "显示难度"
+		"zhCN": "显示难度",
+		"viVN": "Hiện độ khó"
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapGameDifficultyTooltip",
@@ -3741,7 +3974,8 @@
 		"jaJP": "Show the current difficulty on the automap.",
 		"ptBR": "Show the current difficulty on the automap.",
 		"ruRU": "Show the current difficulty on the automap.",
-		"zhCN": "在小地图上显示游戏难度."
+		"zhCN": "在小地图上显示游戏难度.",
+		"viVN": "Hiện độ khó hiện tại trên bản đồ tự động."
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapGameIpAddress",
@@ -3757,7 +3991,8 @@
 		"jaJP": "Show IP Address",
 		"ptBR": "Show IP Address",
 		"ruRU": "Show IP Address",
-		"zhCN": "显示IP地址"
+		"zhCN": "显示IP地址",
+		"viVN": "Hiện địa chỉ IP"
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapGameIpAddressTooltip",
@@ -3773,7 +4008,8 @@
 		"jaJP": "Show the host address in LAN and Direct Join games. Listed games never show the address.",
 		"ptBR": "Show the host address in LAN and Direct Join games. Listed games never show the address.",
 		"ruRU": "Show the host address in LAN and Direct Join games. Listed games never show the address.",
-		"zhCN": "在局域网和直接加入的房间中显示房间地址,房间列表不会显示该地址."
+		"zhCN": "在局域网和直接加入的房间中显示房间地址,房间列表不会显示该地址.",
+		"viVN": "Hiện địa chỉ chủ phòng trong các trận LAN và Tham gia trực tiếp.\nPhòng công khai sẽ không bao giờ hiển thị địa chỉ."
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapGameType",
@@ -3789,7 +4025,8 @@
 		"jaJP": "Show Game Type / Expansion",
 		"ptBR": "Show Game Type / Expansion",
 		"ruRU": "Show Game Type / Expansion",
-		"zhCN": "显示房间类型 / 扩展包"
+		"zhCN": "显示房间类型 / 扩展包",
+		"viVN": "Hiện loại trò chơi / Bản mở rộng"
 	},
 	{
 		"Key": "D2RLoaderSettingsAutomapGameTypeTooltip",
@@ -3805,7 +4042,8 @@
 		"jaJP": "Show the game type, such as EXPANSION, on the automap.",
 		"ptBR": "Show the game type, such as EXPANSION, on the automap.",
 		"ruRU": "Show the game type, such as EXPANSION, on the automap.",
-		"zhCN": "小地图上显示房间类型,如扩展包."
+		"zhCN": "小地图上显示房间类型,如扩展包.",
+		"viVN": "Hiện loại trò chơi, chẳng hạn như EXPANSION, trên\nbản đồ tự động."
 	},
 	{
 		"Key": "D2RLoaderSettingsFloorItemDisplayLimit",
@@ -3821,7 +4059,8 @@
 		"jaJP": "Floor Item Display Limit",
 		"ptBR": "Floor Item Display Limit",
 		"ruRU": "Floor Item Display Limit",
-		"zhCN": "地面物品显示上限"
+		"zhCN": "地面物品显示上限",
+		"viVN": "Giới hạn hiển thị vật phẩm dưới đất"
 	},
 	{
 		"Key": "D2RLoaderSettingsFloorItemDisplayLimitTooltip",
@@ -3837,7 +4076,8 @@
 		"jaJP": "Set the maximum number of floor item labels shown at once.",
 		"ptBR": "Set the maximum number of floor item labels shown at once.",
 		"ruRU": "Set the maximum number of floor item labels shown at once.",
-		"zhCN": "设置地面物品显示的数量上限."
+		"zhCN": "设置地面物品显示的数量上限.",
+		"viVN": "Đặt số lượng nhãn vật phẩm rơi dưới đất tối đa hiển thị cùng một lúc."
 	},
 	{
 		"Key": "D2RLoaderNotifications",
@@ -3853,7 +4093,8 @@
 		"jaJP": "Notifications",
 		"ptBR": "Notifications",
 		"ruRU": "Notifications",
-		"zhCN": "通知"
+		"zhCN": "通知",
+		"viVN": "Thông báo"
 	},
 	{
 		"Key": "D2RLoaderNotificationsTooltip",
@@ -3869,7 +4110,8 @@
 		"jaJP": "View your active notifications.",
 		"ptBR": "View your active notifications.",
 		"ruRU": "View your active notifications.",
-		"zhCN": "查看您的活跃通知."
+		"zhCN": "查看您的活跃通知.",
+		"viVN": "Xem các thông báo đang hoạt động."
 	},
 	{
 		"Key": "D2RLoaderPartyShowGameIdTooltip",
@@ -3885,7 +4127,8 @@
 		"jaJP": "Show or hide Game ID",
 		"ptBR": "Show or hide Game ID",
 		"ruRU": "Show or hide Game ID",
-		"zhCN": "显示或隐藏房间ID"
+		"zhCN": "显示或隐藏房间ID",
+		"viVN": "Hiện hoặc ẩn ID phòng"
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentHeading",
@@ -3901,7 +4144,8 @@
 		"jaJP": "This character was last saved in a different environment:",
 		"ptBR": "This character was last saved in a different environment:",
 		"ruRU": "This character was last saved in a different environment:",
-		"zhCN": "此角色上次保存在不同的环境中:"
+		"zhCN": "此角色上次保存在不同的环境中:",
+		"viVN": "Nhân vật này được lưu lần cuối trong một môi trường khác:"
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentFooter",
@@ -3917,7 +4161,8 @@
 		"jaJP": "Loading may decode or rewrite the save incorrectly. Continue anyway?",
 		"ptBR": "Loading may decode or rewrite the save incorrectly. Continue anyway?",
 		"ruRU": "Loading may decode or rewrite the save incorrectly. Continue anyway?",
-		"zhCN": "载入可能错误解码或者重写存档,坚持继续?"
+		"zhCN": "载入可能错误解码或者重写存档,坚持继续?",
+		"viVN": "Việc tải nhân vật có thể giải mã hoặc ghi lại tệp lưu sai lệch. Vẫn tiếp tục?"
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentMismatch",
@@ -3933,7 +4178,8 @@
 		"jaJP": "Character environment mismatch",
 		"ptBR": "Character environment mismatch",
 		"ruRU": "Character environment mismatch",
-		"zhCN": "角色环境不匹配"
+		"zhCN": "角色环境不匹配",
+		"viVN": "Không khớp môi trường nhân vật"
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentUnnamed",
@@ -3949,7 +4195,8 @@
 		"jaJP": "<unnamed>",
 		"ptBR": "<unnamed>",
 		"ruRU": "<unnamed>",
-		"zhCN": "<未命名>"
+		"zhCN": "<未命名>",
+		"viVN": "<chưa đặt tên>"
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentMissingModFormat",
@@ -3965,7 +4212,8 @@
 		"jaJP": "• Missing mod: %s.",
 		"ptBR": "• Missing mod: %s.",
 		"ruRU": "• Missing mod: %s.",
-		"zhCN": "• 缺失MOD: %s."
+		"zhCN": "• 缺失MOD: %s.",
+		"viVN": "• Thiếu mod: %s."
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentInactiveModFormat",
@@ -3981,7 +4229,8 @@
 		"jaJP": "• Required mod is not active: %s.",
 		"ptBR": "• Required mod is not active: %s.",
 		"ruRU": "• Required mod is not active: %s.",
-		"zhCN": "• 必要MOD未启用: %s."
+		"zhCN": "• 必要MOD未启用: %s.",
+		"viVN": "• Mod yêu cầu chưa được kích hoạt: %s."
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentNewerModFormat",
@@ -3997,7 +4246,8 @@
 		"jaJP": "• Requires newer mod: %s.",
 		"ptBR": "• Requires newer mod: %s.",
 		"ruRU": "• Requires newer mod: %s.",
-		"zhCN": "• 需要更新的MOD: %s."
+		"zhCN": "• 需要更新的MOD: %s.",
+		"viVN": "• Yêu cầu phiên bản mod mới hơn: %s."
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentMissingPlugin",
@@ -4013,7 +4263,8 @@
 		"jaJP": "Missing plugin:",
 		"ptBR": "Missing plugin:",
 		"ruRU": "Missing plugin:",
-		"zhCN": "缺失插件:"
+		"zhCN": "缺失插件:",
+		"viVN": "Thiếu plugin:"
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentMissingPlugins",
@@ -4029,7 +4280,8 @@
 		"jaJP": "Missing plugins:",
 		"ptBR": "Missing plugins:",
 		"ruRU": "Missing plugins:",
-		"zhCN": "缺失的插件:"
+		"zhCN": "缺失的插件:",
+		"viVN": "Thiếu các plugin:"
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentPluginListItemFormat",
@@ -4045,7 +4297,8 @@
 		"jaJP": "• %s",
 		"ptBR": "• %s",
 		"ruRU": "• %s",
-		"zhCN": "• %s"
+		"zhCN": "• %s",
+		"viVN": "• %s"
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentNewerPluginFormat",
@@ -4061,7 +4314,8 @@
 		"jaJP": "• Requires newer plugin: %s.",
 		"ptBR": "• Requires newer plugin: %s.",
 		"ruRU": "• Requires newer plugin: %s.",
-		"zhCN": "• 需要更新的插件: %s."
+		"zhCN": "• 需要更新的插件: %s.",
+		"viVN": "• Yêu cầu phiên bản plugin mới hơn: %s."
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentSavedModIncompatible",
@@ -4077,7 +4331,8 @@
 		"jaJP": "• The saved mod is not compatible with the active environment.",
 		"ptBR": "• The saved mod is not compatible with the active environment.",
 		"ruRU": "• The saved mod is not compatible with the active environment.",
-		"zhCN": "• 存档的MOD与该环境不匹配."
+		"zhCN": "• 存档的MOD与该环境不匹配.",
+		"viVN": "• Mod trong bản lưu không tương thích với môi trường hiện tại."
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentSavedPluginsMissing",
@@ -4093,7 +4348,8 @@
 		"jaJP": "• One or more saved plugins are missing.",
 		"ptBR": "• One or more saved plugins are missing.",
 		"ruRU": "• One or more saved plugins are missing.",
-		"zhCN": "• 一个或多个存档中的插件缺失."
+		"zhCN": "• 一个或多个存档中的插件缺失.",
+		"viVN": "• Thiếu một hoặc nhiều plugin đã dùng trong bản lưu."
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentActivePluginsOlder",
@@ -4109,7 +4365,8 @@
 		"jaJP": "• One or more active plugins are older than the saved versions.",
 		"ptBR": "• One or more active plugins are older than the saved versions.",
 		"ruRU": "• One or more active plugins are older than the saved versions.",
-		"zhCN": "• 一个或多个启用的插件版本低于存档中的版本."
+		"zhCN": "• 一个或多个启用的插件版本低于存档中的版本.",
+		"viVN": "• Một hoặc nhiều plugin đang chạy cũ hơn phiên bản trong bản lưu."
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentItemStatMissing",
@@ -4125,7 +4382,8 @@
 		"jaJP": "• An ItemStatCost row used by the save is missing.",
 		"ptBR": "• An ItemStatCost row used by the save is missing.",
 		"ruRU": "• An ItemStatCost row used by the save is missing.",
-		"zhCN": "• 存档中使用的ItemStatCost行缺失."
+		"zhCN": "• 存档中使用的ItemStatCost行缺失.",
+		"viVN": "• Thiếu một hàng ItemStatCost được dùng bởi bản lưu."
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentItemStatIdentityMismatch",
@@ -4141,7 +4399,8 @@
 		"jaJP": "• An ItemStatCost ID now refers to a different stat.",
 		"ptBR": "• An ItemStatCost ID now refers to a different stat.",
 		"ruRU": "• An ItemStatCost ID now refers to a different stat.",
-		"zhCN": "• ItemStatCost ID 现在指向不同参数."
+		"zhCN": "• ItemStatCost ID 现在指向不同参数.",
+		"viVN": "• Một ID ItemStatCost hiện đang trỏ tới một chỉ số khác."
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentItemStatEncodingMismatch",
@@ -4157,7 +4416,8 @@
 		"jaJP": "• ItemStatCost save encoding changed for a stat used by this character.",
 		"ptBR": "• ItemStatCost save encoding changed for a stat used by this character.",
 		"ruRU": "• ItemStatCost save encoding changed for a stat used by this character.",
-		"zhCN": "• 角色使用的一项属性,其ItemStatCost存档编码已发生变化."
+		"zhCN": "• 角色使用的一项属性,其ItemStatCost存档编码已发生变化.",
+		"viVN": "• Mã hóa lưu trữ ItemStatCost đã thay đổi cho một chỉ số mà nhân vật này sử dụng."
 	},
 	{
 		"Key": "D2RLoaderCharacterEnvironmentItemStatUnavailable",
@@ -4173,7 +4433,8 @@
 		"jaJP": "• The current ItemStatCost encoding could not be verified.",
 		"ptBR": "• The current ItemStatCost encoding could not be verified.",
 		"ruRU": "• The current ItemStatCost encoding could not be verified.",
-		"zhCN": "• 当前的ItemStatCost编码无法验证."
+		"zhCN": "• 当前的ItemStatCost编码无法验证.",
+		"viVN": "• Không thể xác minh mã hóa ItemStatCost hiện tại."
 	},
 	{
 		"Key": "D2RLoaderCharacterStatusSupportNotDetected",
@@ -4189,7 +4450,8 @@
 		"jaJP": "D2RLoader support: Not detected",
 		"ptBR": "D2RLoader support: Not detected",
 		"ruRU": "D2RLoader support: Not detected",
-		"zhCN": "D2RLoader 支持: 未检测到"
+		"zhCN": "D2RLoader 支持: 未检测到",
+		"viVN": "Hỗ trợ D2RLoader: Không phát hiện"
 	},
 	{
 		"Key": "D2RLoaderValueUnknown",
@@ -4205,7 +4467,8 @@
 		"jaJP": "unknown",
 		"ptBR": "unknown",
 		"ruRU": "unknown",
-		"zhCN": "未知"
+		"zhCN": "未知",
+		"viVN": "không rõ"
 	},
 	{
 		"Key": "D2RLoaderValueNotSet",
@@ -4221,7 +4484,8 @@
 		"jaJP": "not set",
 		"ptBR": "not set",
 		"ruRU": "not set",
-		"zhCN": "未设置"
+		"zhCN": "未设置",
+		"viVN": "chưa thiết lập"
 	},
 	{
 		"Key": "D2RLoaderValueNotAvailable",
@@ -4237,7 +4501,8 @@
 		"jaJP": "not available",
 		"ptBR": "not available",
 		"ruRU": "not available",
-		"zhCN": "不可用"
+		"zhCN": "不可用",
+		"viVN": "không khả dụng"
 	},
 	{
 		"Key": "D2RLoaderAboutNoActiveMod",
@@ -4253,7 +4518,8 @@
 		"jaJP": "No active mod",
 		"ptBR": "No active mod",
 		"ruRU": "No active mod",
-		"zhCN": "未启用MOD"
+		"zhCN": "未启用MOD",
+		"viVN": "Không có mod nào đang chạy"
 	},
 	{
 		"Key": "D2RLoaderNotificationEmptyList",
@@ -4269,7 +4535,8 @@
 		"jaJP": "Nothing to show.",
 		"ptBR": "Nothing to show.",
 		"ruRU": "Nothing to show.",
-		"zhCN": "没有内容可以展示."
+		"zhCN": "没有内容可以展示.",
+		"viVN": "Không có gì để hiển thị."
 	},
 	{
 		"Key": "D2RLoaderNotificationSeverityInfo",
@@ -4285,7 +4552,8 @@
 		"jaJP": "INFO",
 		"ptBR": "INFO",
 		"ruRU": "INFO",
-		"zhCN": "信息"
+		"zhCN": "信息",
+		"viVN": "THÔNG TIN"
 	},
 	{
 		"Key": "D2RLoaderNotificationSeverityWarning",
@@ -4301,7 +4569,8 @@
 		"jaJP": "WARNING",
 		"ptBR": "WARNING",
 		"ruRU": "WARNING",
-		"zhCN": "警告"
+		"zhCN": "警告",
+		"viVN": "CẢNH BÁO"
 	},
 	{
 		"Key": "D2RLoaderNotificationSeverityError",
@@ -4317,7 +4586,8 @@
 		"jaJP": "ERROR",
 		"ptBR": "ERROR",
 		"ruRU": "ERROR",
-		"zhCN": "错误"
+		"zhCN": "错误",
+		"viVN": "LỖI"
 	},
 	{
 		"Key": "D2RLoaderNotificationEmptyTitle",
@@ -4333,7 +4603,8 @@
 		"jaJP": "No notifications",
 		"ptBR": "No notifications",
 		"ruRU": "No notifications",
-		"zhCN": "无通知"
+		"zhCN": "无通知",
+		"viVN": "Không có thông báo"
 	},
 	{
 		"Key": "D2RLoaderNotificationEmptyDetails",
@@ -4349,7 +4620,8 @@
 		"jaJP": "You're all caught up.",
 		"ptBR": "You're all caught up.",
 		"ruRU": "You're all caught up.",
-		"zhCN": "已无新内容."
+		"zhCN": "已无新内容.",
+		"viVN": "Tất cả thông báo đã được xem."
 	},
 	{
 		"Key": "D2RLoaderBackupSaveFolderUnavailable",
@@ -4365,7 +4637,8 @@
 		"jaJP": "Unable to resolve the active save folder.",
 		"ptBR": "Unable to resolve the active save folder.",
 		"ruRU": "Unable to resolve the active save folder.",
-		"zhCN": "无法解析当前的存档文件夹."
+		"zhCN": "无法解析当前的存档文件夹.",
+		"viVN": "Không thể xác định thư mục lưu dữ liệu đang dùng."
 	},
 	{
 		"Key": "D2RLoaderBackupFolderUnreadable",
@@ -4381,7 +4654,8 @@
 		"jaJP": "Unable to read the backup folder.",
 		"ptBR": "Unable to read the backup folder.",
 		"ruRU": "Unable to read the backup folder.",
-		"zhCN": "无法读取备份文件夹."
+		"zhCN": "无法读取备份文件夹.",
+		"viVN": "Không thể đọc thư mục sao lưu."
 	},
 	{
 		"Key": "D2RLoaderBackupUnknownClass",
@@ -4397,7 +4671,8 @@
 		"jaJP": "Unknown class",
 		"ptBR": "Unknown class",
 		"ruRU": "Unknown class",
-		"zhCN": "未知职业"
+		"zhCN": "未知职业",
+		"viVN": "Lớp nhân vật không xác định"
 	},
 	{
 		"Key": "D2RLoaderBackupLodSoftcore",
@@ -4413,7 +4688,8 @@
 		"jaJP": "LoD Softcore",
 		"ptBR": "LoD Softcore",
 		"ruRU": "LoD Softcore",
-		"zhCN": "LoD 非专家模式"
+		"zhCN": "LoD 非专家模式",
+		"viVN": "LoD Softcore"
 	},
 	{
 		"Key": "D2RLoaderBackupLodHardcore",
@@ -4429,7 +4705,8 @@
 		"jaJP": "LoD Hardcore",
 		"ptBR": "LoD Hardcore",
 		"ruRU": "LoD Hardcore",
-		"zhCN": "LoD 专家模式"
+		"zhCN": "LoD 专家模式",
+		"viVN": "LoD Hardcore"
 	},
 	{
 		"Key": "D2RLoaderBackupRotwSoftcore",
@@ -4445,7 +4722,8 @@
 		"jaJP": "RotW Softcore",
 		"ptBR": "RotW Softcore",
 		"ruRU": "RotW Softcore",
-		"zhCN": "RotW 非专家模式"
+		"zhCN": "RotW 非专家模式",
+		"viVN": "RotW Softcore"
 	},
 	{
 		"Key": "D2RLoaderBackupUnreadable",
@@ -4461,7 +4739,8 @@
 		"jaJP": "Backup unreadable",
 		"ptBR": "Backup unreadable",
 		"ruRU": "Backup unreadable",
-		"zhCN": "备份不可读"
+		"zhCN": "备份不可读",
+		"viVN": "Bản sao lưu không đọc được"
 	},
 	{
 		"Key": "D2RLoaderBackupItemsAndMaterialsFormat",
@@ -4477,7 +4756,8 @@
 		"jaJP": "%s Items, %s Materials",
 		"ptBR": "%s Items, %s Materials",
 		"ruRU": "%s Items, %s Materials",
-		"zhCN": "%s 物品, %s 材料"
+		"zhCN": "%s 物品, %s 材料",
+		"viVN": "%s Vật phẩm, %s Nguyên liệu"
 	},
 	{
 		"Key": "D2RLoaderBackupItemsFormat",
@@ -4493,7 +4773,8 @@
 		"jaJP": "%s Items",
 		"ptBR": "%s Items",
 		"ruRU": "%s Items",
-		"zhCN": "%s 物品"
+		"zhCN": "%s 物品",
+		"viVN": "%s Vật phẩm"
 	},
 	{
 		"Key": "D2RLoaderBackupSharedStash",
@@ -4509,7 +4790,8 @@
 		"jaJP": "Shared Stash",
 		"ptBR": "Shared Stash",
 		"ruRU": "Shared Stash",
-		"zhCN": "共享箱"
+		"zhCN": "共享箱",
+		"viVN": "Rương dùng chung"
 	},
 	{
 		"Key": "D2RLoaderBackupBytesFormat",
@@ -4525,7 +4807,8 @@
 		"jaJP": "%s bytes",
 		"ptBR": "%s bytes",
 		"ruRU": "%s bytes",
-		"zhCN": "%s bytes"
+		"zhCN": "%s bytes",
+		"viVN": "%s bytes"
 	},
 	{
 		"Key": "D2RLoaderBackupKilobytesFormat",
@@ -4541,7 +4824,8 @@
 		"jaJP": "%s KB",
 		"ptBR": "%s KB",
 		"ruRU": "%s KB",
-		"zhCN": "%s KB"
+		"zhCN": "%s KB",
+		"viVN": "%s KB"
 	},
 	{
 		"Key": "D2RLoaderBackupMegabytesFormat",
@@ -4557,7 +4841,8 @@
 		"jaJP": "%s MB",
 		"ptBR": "%s MB",
 		"ruRU": "%s MB",
-		"zhCN": "%s MB"
+		"zhCN": "%s MB",
+		"viVN": "%s MB"
 	},
 	{
 		"Key": "D2RLoaderBackupHistoryUnreadable",
@@ -4573,7 +4858,8 @@
 		"jaJP": "Unable to read this backup history.",
 		"ptBR": "Unable to read this backup history.",
 		"ruRU": "Unable to read this backup history.",
-		"zhCN": "无法读取该备份历史记录."
+		"zhCN": "无法读取该备份历史记录.",
+		"viVN": "Không thể đọc lịch sử sao lưu này."
 	},
 	{
 		"Key": "D2RLoaderBackupSetUnreadable",
@@ -4589,7 +4875,8 @@
 		"jaJP": "Unable to read this backup set.",
 		"ptBR": "Unable to read this backup set.",
 		"ruRU": "Unable to read this backup set.",
-		"zhCN": "无法备份此备份集."
+		"zhCN": "无法备份此备份集.",
+		"viVN": "Không thể đọc bộ sao lưu này."
 	},
 	{
 		"Key": "D2RLoaderBackupSetEmpty",
@@ -4605,7 +4892,8 @@
 		"jaJP": "No current saves or archived backups were found in this backup set.",
 		"ptBR": "No current saves or archived backups were found in this backup set.",
 		"ruRU": "No current saves or archived backups were found in this backup set.",
-		"zhCN": "改备份集中未找到任何当前存档或历史备份."
+		"zhCN": "改备份集中未找到任何当前存档或历史备份.",
+		"viVN": "Không tìm thấy bản lưu hiện tại hoặc bản sao lưu lưu trữ nào trong bộ sao lưu này."
 	},
 	{
 		"Key": "D2RLoaderBackupRestoreUnavailable",
@@ -4621,7 +4909,8 @@
 		"jaJP": "Unable to restore this backup.",
 		"ptBR": "Unable to restore this backup.",
 		"ruRU": "Unable to restore this backup.",
-		"zhCN": "无法恢复此备份."
+		"zhCN": "无法恢复此备份.",
+		"viVN": "Không thể khôi phục bản sao lưu này."
 	},
 	{
 		"Key": "D2RLoaderBackupLeaveGameToCreate",
@@ -4637,7 +4926,8 @@
 		"jaJP": "Leave the active game before creating a manual backup.",
 		"ptBR": "Leave the active game before creating a manual backup.",
 		"ruRU": "Leave the active game before creating a manual backup.",
-		"zhCN": "创建备份前请先退出当前游戏."
+		"zhCN": "创建备份前请先退出当前游戏.",
+		"viVN": "Rời khỏi trận đấu trước khi tạo bản sao lưu thủ công."
 	},
 	{
 		"Key": "D2RLoaderBackupCreateStageFailed",
@@ -4653,7 +4943,8 @@
 		"jaJP": "Unable to read and stage the current save.",
 		"ptBR": "Unable to read and stage the current save.",
 		"ruRU": "Unable to read and stage the current save.",
-		"zhCN": "无法读取并暂存当前存档."
+		"zhCN": "无法读取并暂存当前存档.",
+		"viVN": "Không thể đọc và chuẩn bị bản lưu hiện tại."
 	},
 	{
 		"Key": "D2RLoaderBackupCreatePublishFailed",
@@ -4669,7 +4960,8 @@
 		"jaJP": "Unable to publish the new backup.",
 		"ptBR": "Unable to publish the new backup.",
 		"ruRU": "Unable to publish the new backup.",
-		"zhCN": "无法发布新备份."
+		"zhCN": "无法发布新备份.",
+		"viVN": "Không thể lưu trữ bản sao lưu mới."
 	},
 	{
 		"Key": "D2RLoaderBackupCreateCleanupFailed",
@@ -4685,7 +4977,8 @@
 		"jaJP": "Unable to remove expired backups.",
 		"ptBR": "Unable to remove expired backups.",
 		"ruRU": "Unable to remove expired backups.",
-		"zhCN": "无法删除已过期备份."
+		"zhCN": "无法删除已过期备份.",
+		"viVN": "Không thể dọn dẹp các bản sao lưu đã hết hạn."
 	},
 	{
 		"Key": "D2RLoaderBackupCreateFailed",
@@ -4701,7 +4994,8 @@
 		"jaJP": "Unable to create the backup.",
 		"ptBR": "Unable to create the backup.",
 		"ruRU": "Unable to create the backup.",
-		"zhCN": "无法创建备份."
+		"zhCN": "无法创建备份.",
+		"viVN": "Không thể tạo bản sao lưu."
 	},
 	{
 		"Key": "D2RLoaderBackupCreatedCleanupFailed",
@@ -4717,7 +5011,8 @@
 		"jaJP": "Backup created, but old backups could not be removed.",
 		"ptBR": "Backup created, but old backups could not be removed.",
 		"ruRU": "Backup created, but old backups could not be removed.",
-		"zhCN": "备份已创建,但老备份无法删除."
+		"zhCN": "备份已创建,但老备份无法删除.",
+		"viVN": "Bản sao lưu đã được tạo, nhưng không thể xóa các bản sao lưu cũ."
 	},
 	{
 		"Key": "D2RLoaderBackupCreateDifferentSetPrompt",
@@ -4733,7 +5028,8 @@
 		"jaJP": "Create a backup of %s?\n\nWarning: this current save belongs to a backup set that is not active.",
 		"ptBR": "Create a backup of %s?\n\nWarning: this current save belongs to a backup set that is not active.",
 		"ruRU": "Create a backup of %s?\n\nWarning: this current save belongs to a backup set that is not active.",
-		"zhCN": "创建%s的备份?\n\n警告:当前存档属于一个未激活的备份集."
+		"zhCN": "创建%s的备份?\n\n警告:当前存档属于一个未激活的备份集.",
+		"viVN": "Tạo bản sao lưu cho %s?\n\nCảnh báo: bản lưu này thuộc về một bộ sao lưu hiện không hoạt động."
 	},
 	{
 		"Key": "D2RLoaderBackupLeaveGameToRestore",
@@ -4749,7 +5045,8 @@
 		"jaJP": "Leave the active game before restoring an offline save backup.",
 		"ptBR": "Leave the active game before restoring an offline save backup.",
 		"ruRU": "Leave the active game before restoring an offline save backup.",
-		"zhCN": "在恢复离线备份存档前,请先退出当前游戏."
+		"zhCN": "在恢复离线备份存档前,请先退出当前游戏.",
+		"viVN": "Rời khỏi trận đấu trước khi khôi phục bản sao lưu ngoại tuyến."
 	},
 	{
 		"Key": "D2RLoaderBackupCheckpointChanged",
@@ -4765,7 +5062,8 @@
 		"jaJP": "This backup is no longer available or readable. The backup list has been refreshed.",
 		"ptBR": "This backup is no longer available or readable. The backup list has been refreshed.",
 		"ruRU": "This backup is no longer available or readable. The backup list has been refreshed.",
-		"zhCN": "该存档已不可用或无法读取.备份列表已刷新."
+		"zhCN": "该存档已不可用或无法读取.备份列表已刷新.",
+		"viVN": "Bản sao lưu này không còn khả dụng hoặc không thể đọc được. Danh sách sao lưu đã được làm mới."
 	},
 	{
 		"Key": "D2RLoaderBackupRestorePrompt",
@@ -4781,7 +5079,8 @@
 		"jaJP": "Restore %s from %s?\n\nThis will replace the current live file. Are you sure?",
 		"ptBR": "Restore %s from %s?\n\nThis will replace the current live file. Are you sure?",
 		"ruRU": "Restore %s from %s?\n\nThis will replace the current live file. Are you sure?",
-		"zhCN": "从%s恢复%s?\n\n这将替换当前正在使用的文件.您确定吗?"
+		"zhCN": "从%s恢复%s?\n\n这将替换当前正在使用的文件.您确定吗?",
+		"viVN": "Khôi phục %s từ %s?\n\nThao tác này sẽ ghi đè lên tệp hiện tại. Bạn có chắc chắn?"
 	},
 	{
 		"Key": "D2RLoaderBackupRestoreDifferentSetWarning",
@@ -4797,7 +5096,8 @@
 		"jaJP": "\n\nWarning: this backup was created for a different backup set.",
 		"ptBR": "\n\nWarning: this backup was created for a different backup set.",
 		"ruRU": "\n\nWarning: this backup was created for a different backup set.",
-		"zhCN": "\n\n警告: 此备份是未其他备份集创建的."
+		"zhCN": "\n\n警告: 此备份是未其他备份集创建的.",
+		"viVN": "\n\nCảnh báo: bản sao lưu này được tạo cho một bộ sao lưu khác."
 	},
 	{
 		"Key": "D2RLoaderBackupRestoreInspectFailed",
@@ -4813,7 +5113,8 @@
 		"jaJP": "Unable to read the selected backup.",
 		"ptBR": "Unable to read the selected backup.",
 		"ruRU": "Unable to read the selected backup.",
-		"zhCN": "无法读取所选备份."
+		"zhCN": "无法读取所选备份.",
+		"viVN": "Không thể đọc bản sao lưu đã chọn."
 	},
 	{
 		"Key": "D2RLoaderBackupRestoreStageFailed",
@@ -4829,7 +5130,8 @@
 		"jaJP": "Unable to stage the selected backup.",
 		"ptBR": "Unable to stage the selected backup.",
 		"ruRU": "Unable to stage the selected backup.",
-		"zhCN": "无法暂存选中的备份."
+		"zhCN": "无法暂存选中的备份.",
+		"viVN": "Không thể chuẩn bị bản sao lưu đã chọn."
 	},
 	{
 		"Key": "D2RLoaderBackupRestoreDirectoryFailed",
@@ -4845,7 +5147,8 @@
 		"jaJP": "Unable to create the live save directory.",
 		"ptBR": "Unable to create the live save directory.",
 		"ruRU": "Unable to create the live save directory.",
-		"zhCN": "无法创建实时存档目录."
+		"zhCN": "无法创建实时存档目录.",
+		"viVN": "Không thể tạo thư mục lưu trữ trực tiếp."
 	},
 	{
 		"Key": "D2RLoaderBackupRestoreWriteFailed",
@@ -4861,7 +5164,8 @@
 		"jaJP": "Unable to replace the live save file.",
 		"ptBR": "Unable to replace the live save file.",
 		"ruRU": "Unable to replace the live save file.",
-		"zhCN": "无法替换实时存档文件."
+		"zhCN": "无法替换实时存档文件.",
+		"viVN": "Không thể thay thế tệp lưu trữ trực tiếp."
 	},
 	{
 		"Key": "D2RLoaderBackupRestoreVerifyFailed",
@@ -4877,7 +5181,8 @@
 		"jaJP": "Unable to verify the restored save file.",
 		"ptBR": "Unable to verify the restored save file.",
 		"ruRU": "Unable to verify the restored save file.",
-		"zhCN": "无法验证已恢复的存档文件."
+		"zhCN": "无法验证已恢复的存档文件.",
+		"viVN": "Không thể xác minh tệp lưu trữ đã khôi phục."
 	},
 	{
 		"Key": "D2RLoaderBackupRestoreRollbackFailed",
@@ -4893,7 +5198,8 @@
 		"jaJP": "Unable to roll back a failed restore.",
 		"ptBR": "Unable to roll back a failed restore.",
 		"ruRU": "Unable to roll back a failed restore.",
-		"zhCN": "无法回滚失败的恢复操作."
+		"zhCN": "无法回滚失败的恢复操作.",
+		"viVN": "Không thể hoàn tác thao tác khôi phục bị lỗi."
 	},
 	{
 		"Key": "D2RLoaderBackupRestoreFailed",
@@ -4909,7 +5215,8 @@
 		"jaJP": "Unable to restore the selected backup.",
 		"ptBR": "Unable to restore the selected backup.",
 		"ruRU": "Unable to restore the selected backup.",
-		"zhCN": "无法恢复所选备份."
+		"zhCN": "无法恢复所选备份.",
+		"viVN": "Không thể khôi phục bản sao lưu đã chọn."
 	},
 	{
 		"Key": "D2RLoaderBackupDeletePrompt",
@@ -4925,7 +5232,8 @@
 		"jaJP": "Delete the backup of %s from %s?\n\nThis cannot be undone.",
 		"ptBR": "Delete the backup of %s from %s?\n\nThis cannot be undone.",
 		"ruRU": "Delete the backup of %s from %s?\n\nThis cannot be undone.",
-		"zhCN": "从%s删除%s备份?\n\n此操作无法恢复."
+		"zhCN": "从%s删除%s备份?\n\n此操作无法恢复.",
+		"viVN": "Xóa bản sao lưu của %s từ %s?\n\nHành động này không thể hoàn tác."
 	},
 	{
 		"Key": "D2RLoaderBackupDeleteFailed",
@@ -4941,7 +5249,8 @@
 		"jaJP": "Unable to delete the selected backup.",
 		"ptBR": "Unable to delete the selected backup.",
 		"ruRU": "Unable to delete the selected backup.",
-		"zhCN": "无法删除所选备份."
+		"zhCN": "无法删除所选备份.",
+		"viVN": "Không thể xóa bản sao lưu đã chọn."
 	},
 	{
 		"Key": "D2RLoaderExtensionsScopeGlobal",
@@ -4957,7 +5266,8 @@
 		"jaJP": "Global",
 		"ptBR": "Global",
 		"ruRU": "Global",
-		"zhCN": "全局"
+		"zhCN": "全局",
+		"viVN": "Toàn cục"
 	},
 	{
 		"Key": "D2RLoaderExtensionsScopeMod",
@@ -4973,7 +5283,8 @@
 		"jaJP": "Mod",
 		"ptBR": "Mod",
 		"ruRU": "Mod",
-		"zhCN": "Mod"
+		"zhCN": "Mod",
+		"viVN": "Mod"
 	},
 	{
 		"Key": "D2RLoaderExtensionsStatusOutdated",
@@ -4989,7 +5300,8 @@
 		"jaJP": "Outdated",
 		"ptBR": "Outdated",
 		"ruRU": "Outdated",
-		"zhCN": "过时"
+		"zhCN": "过时",
+		"viVN": "Lỗi thời"
 	},
 	{
 		"Key": "D2RLoaderExtensionsStatusIncompatible",
@@ -5005,7 +5317,8 @@
 		"jaJP": "Incompatible",
 		"ptBR": "Incompatible",
 		"ruRU": "Incompatible",
-		"zhCN": "不兼容"
+		"zhCN": "不兼容",
+		"viVN": "Không tương thích"
 	},
 	{
 		"Key": "D2RLoaderExtensionsStatusInvalid",
@@ -5021,7 +5334,8 @@
 		"jaJP": "Invalid",
 		"ptBR": "Invalid",
 		"ruRU": "Invalid",
-		"zhCN": "无效"
+		"zhCN": "无效",
+		"viVN": "Không hợp lệ"
 	},
 	{
 		"Key": "D2RLoaderExtensionsStatusConflict",
@@ -5037,7 +5351,8 @@
 		"jaJP": "Conflict",
 		"ptBR": "Conflict",
 		"ruRU": "Conflict",
-		"zhCN": "冲突"
+		"zhCN": "冲突",
+		"viVN": "Xung đột"
 	},
 	{
 		"Key": "D2RLoaderExtensionsStatusErrored",
@@ -5053,7 +5368,8 @@
 		"jaJP": "Errored",
 		"ptBR": "Errored",
 		"ruRU": "Errored",
-		"zhCN": "出错"
+		"zhCN": "出错",
+		"viVN": "Gặp lỗi"
 	},
 	{
 		"Key": "D2RLoaderExtensionsStatusDisabled",
@@ -5069,7 +5385,8 @@
 		"jaJP": "Disabled",
 		"ptBR": "Disabled",
 		"ruRU": "Disabled",
-		"zhCN": "已禁用"
+		"zhCN": "已禁用",
+		"viVN": "Đã tắt"
 	},
 	{
 		"Key": "D2RLoaderExtensionsDisabledDescription",
@@ -5085,7 +5402,8 @@
 		"jaJP": "Extension loading is disabled.",
 		"ptBR": "Extension loading is disabled.",
 		"ruRU": "Extension loading is disabled.",
-		"zhCN": "扩展加载已禁用."
+		"zhCN": "扩展加载已禁用.",
+		"viVN": "Tính năng tải tiện ích mở rộng đang bị tắt."
 	},
 	{
 		"Key": "D2RLoaderExtensionsPreBetaUnsupported",
@@ -5101,7 +5419,8 @@
 		"jaJP": "Pre-beta plugins are not supported.",
 		"ptBR": "Pre-beta plugins are not supported.",
 		"ruRU": "Pre-beta plugins are not supported.",
-		"zhCN": "预发布(测试版)插件不被支持."
+		"zhCN": "预发布(测试版)插件不被支持.",
+		"viVN": "Các plugin phiên bản tiền beta không được hỗ trợ."
 	},
 	{
 		"Key": "D2RLoaderExtensionsIssueDetected",
@@ -5117,7 +5436,8 @@
 		"jaJP": "Issue detected.",
 		"ptBR": "Issue detected.",
 		"ruRU": "Issue detected.",
-		"zhCN": "检测到问题."
+		"zhCN": "检测到问题.",
+		"viVN": "Phát hiện sự cố."
 	},
 	{
 		"Key": "D2RLoaderExtensionsModeNativeHooks",
@@ -5133,7 +5453,8 @@
 		"jaJP": "Native Hooks",
 		"ptBR": "Native Hooks",
 		"ruRU": "Native Hooks",
-		"zhCN": "原生钩子"
+		"zhCN": "原生钩子",
+		"viVN": "Native Hooks"
 	},
 	{
 		"Key": "D2RLoaderExtensionsModeApi",
@@ -5149,7 +5470,8 @@
 		"jaJP": "D2RLoader API",
 		"ptBR": "D2RLoader API",
 		"ruRU": "D2RLoader API",
-		"zhCN": "D2RLoader API"
+		"zhCN": "D2RLoader API",
+		"viVN": "D2RLoader API"
 	},
 	{
 		"Key": "D2RLoaderExtensionsRoleClient",
@@ -5165,7 +5487,8 @@
 		"jaJP": "Client",
 		"ptBR": "Client",
 		"ruRU": "Client",
-		"zhCN": "客户端"
+		"zhCN": "客户端",
+		"viVN": "Client"
 	},
 	{
 		"Key": "D2RLoaderExtensionsRoleServer",
@@ -5181,7 +5504,8 @@
 		"jaJP": "Server",
 		"ptBR": "Server",
 		"ruRU": "Server",
-		"zhCN": "服务器"
+		"zhCN": "服务器",
+		"viVN": "Server"
 	},
 	{
 		"Key": "D2RLoaderExtensionsRoleShared",
@@ -5197,7 +5521,8 @@
 		"jaJP": "Shared",
 		"ptBR": "Shared",
 		"ruRU": "Shared",
-		"zhCN": "共享"
+		"zhCN": "共享",
+		"viVN": "Dùng chung"
 	},
 	{
 		"Key": "D2RLoaderExtensionsMetaAuthor",
@@ -5213,7 +5538,8 @@
 		"jaJP": "Author",
 		"ptBR": "Author",
 		"ruRU": "Author",
-		"zhCN": "作者"
+		"zhCN": "作者",
+		"viVN": "Tác giả"
 	},
 	{
 		"Key": "D2RLoaderExtensionsMetaVersion",
@@ -5229,7 +5555,8 @@
 		"jaJP": "Version",
 		"ptBR": "Version",
 		"ruRU": "Version",
-		"zhCN": "版本"
+		"zhCN": "版本",
+		"viVN": "Phiên bản"
 	},
 	{
 		"Key": "D2RLoaderExtensionsMetaRole",
@@ -5245,7 +5572,8 @@
 		"jaJP": "Role",
 		"ptBR": "Role",
 		"ruRU": "Role",
-		"zhCN": "角色"
+		"zhCN": "角色",
+		"viVN": "Vai trò"
 	},
 	{
 		"Key": "D2RLoaderExtensionsMetaMode",
@@ -5261,7 +5589,8 @@
 		"jaJP": "Mode",
 		"ptBR": "Mode",
 		"ruRU": "Mode",
-		"zhCN": "模式"
+		"zhCN": "模式",
+		"viVN": "Chế độ"
 	},
 	{
 		"Key": "D2RLoaderExtensionsMetaPatches",
@@ -5277,7 +5606,8 @@
 		"jaJP": "Patches",
 		"ptBR": "Patches",
 		"ruRU": "Patches",
-		"zhCN": "补丁"
+		"zhCN": "补丁",
+		"viVN": "Patches"
 	},
 	{
 		"Key": "D2RLoaderExtensionsPluginsUnreadable",
@@ -5293,7 +5623,8 @@
 		"jaJP": "Unable to read plugin records.",
 		"ptBR": "Unable to read plugin records.",
 		"ruRU": "Unable to read plugin records.",
-		"zhCN": "无法读取插件记录."
+		"zhCN": "无法读取插件记录.",
+		"viVN": "Không thể đọc dữ liệu plugin."
 	},
 	{
 		"Key": "D2RLoaderExtensionsNoPlugins",
@@ -5309,7 +5640,8 @@
 		"jaJP": "No plugins found.",
 		"ptBR": "No plugins found.",
 		"ruRU": "No plugins found.",
-		"zhCN": "未找到插件."
+		"zhCN": "未找到插件.",
+		"viVN": "Không tìm thấy plugin nào."
 	},
 	{
 		"Key": "D2RLoaderExtensionsMorePluginsFormat",
@@ -5325,7 +5657,8 @@
 		"jaJP": "%s more plugin records not shown.",
 		"ptBR": "%s more plugin records not shown.",
 		"ruRU": "%s more plugin records not shown.",
-		"zhCN": "%s 更多插件记录未显示."
+		"zhCN": "%s 更多插件记录未显示.",
+		"viVN": "%s bản ghi plugin khác không được hiển thị."
 	},
 	{
 		"Key": "D2RLoaderExtensionsPatchesUnreadable",
@@ -5341,7 +5674,8 @@
 		"jaJP": "Unable to read patch records.",
 		"ptBR": "Unable to read patch records.",
 		"ruRU": "Unable to read patch records.",
-		"zhCN": "无法读取补丁记录."
+		"zhCN": "无法读取补丁记录.",
+		"viVN": "Không thể đọc dữ liệu bản vá."
 	},
 	{
 		"Key": "D2RLoaderExtensionsNoPatches",
@@ -5357,7 +5691,8 @@
 		"jaJP": "No patches found.",
 		"ptBR": "No patches found.",
 		"ruRU": "No patches found.",
-		"zhCN": "未找到补丁."
+		"zhCN": "未找到补丁.",
+		"viVN": "Không tìm thấy bản vá nào."
 	},
 	{
 		"Key": "D2RLoaderExtensionsMorePatchesFormat",
@@ -5373,7 +5708,8 @@
 		"jaJP": "%s more patch records not shown.",
 		"ptBR": "%s more patch records not shown.",
 		"ruRU": "%s more patch records not shown.",
-		"zhCN": "%s 更多补丁记录未显示."
+		"zhCN": "%s 更多补丁记录未显示.",
+		"viVN": "%s bản ghi bản vá khác không được hiển thị."
 	},
 	{
 		"Key": "D2RLoaderNotificationCompiledDataReusedTitle",
@@ -5389,7 +5725,8 @@
 		"jaJP": "Mod data from another D2R version",
 		"ptBR": "Mod data from another D2R version",
 		"ruRU": "Mod data from another D2R version",
-		"zhCN": "来自另一个D2R版本的Mod数据"
+		"zhCN": "来自另一个D2R版本的Mod数据",
+		"viVN": "Dữ liệu mod từ phiên bản D2R khác"
 	},
 	{
 		"Key": "D2RLoaderNotificationCompiledDataReusedSummary",
@@ -5405,7 +5742,8 @@
 		"jaJP": "This mod was made for a different version of Diablo II: Resurrected.",
 		"ptBR": "This mod was made for a different version of Diablo II: Resurrected.",
 		"ruRU": "This mod was made for a different version of Diablo II: Resurrected.",
-		"zhCN": "此MOD制作于另一个版本的暗黑破坏神II:重制版."
+		"zhCN": "此MOD制作于另一个版本的暗黑破坏神II:重制版.",
+		"viVN": "Mod này được tạo cho một phiên bản khác của Diablo II: Resurrected."
 	},
 	{
 		"Key": "D2RLoaderNotificationCompiledDataRebuiltTitle",
@@ -5421,7 +5759,8 @@
 		"jaJP": "Mod data updated",
 		"ptBR": "Mod data updated",
 		"ruRU": "Mod data updated",
-		"zhCN": "Mod数据已更新"
+		"zhCN": "Mod数据已更新",
+		"viVN": "Dữ liệu mod đã được cập nhật"
 	},
 	{
 		"Key": "D2RLoaderNotificationCompiledDataRebuiltSummary",
@@ -5437,7 +5776,8 @@
 		"jaJP": "This mod's data was updated for your current D2R version.",
 		"ptBR": "This mod's data was updated for your current D2R version.",
 		"ruRU": "This mod's data was updated for your current D2R version.",
-		"zhCN": "此MOD的数据以为您当前的游戏版本更新."
+		"zhCN": "此MOD的数据以为您当前的游戏版本更新.",
+		"viVN": "Dữ liệu của mod này đã được cập nhật cho phiên bản D2R hiện tại."
 	},
 	{
 		"Key": "D2RLoaderNotificationExtensionsFailedTitle",
@@ -5453,7 +5793,8 @@
 		"jaJP": "Some extensions failed to load",
 		"ptBR": "Some extensions failed to load",
 		"ruRU": "Some extensions failed to load",
-		"zhCN": "某些扩展程序加载失败"
+		"zhCN": "某些扩展程序加载失败",
+		"viVN": "Một số tiện ích mở rộng không thể tải"
 	},
 	{
 		"Key": "D2RLoaderNotificationExtensionsFailedSummary",
@@ -5469,7 +5810,8 @@
 		"jaJP": "One or more plugins or memory patches could not be loaded.",
 		"ptBR": "One or more plugins or memory patches could not be loaded.",
 		"ruRU": "One or more plugins or memory patches could not be loaded.",
-		"zhCN": "一个或多个插件或补丁无法加载."
+		"zhCN": "一个或多个插件或补丁无法加载.",
+		"viVN": "Không thể tải một hoặc nhiều plugin hoặc bản vá bộ nhớ."
 	},
 	{
 		"Key": "D2RLoaderNotificationExtensionsFailedDetails",
@@ -5485,7 +5827,8 @@
 		"jaJP": "Some features may not work correctly. Open the Extensions tab in D2RLoader Settings to see which files failed and why.",
 		"ptBR": "Some features may not work correctly. Open the Extensions tab in D2RLoader Settings to see which files failed and why.",
 		"ruRU": "Some features may not work correctly. Open the Extensions tab in D2RLoader Settings to see which files failed and why.",
-		"zhCN": "部分功能可能无法正常工作.请打开D2RLoader设置中的扩展选项查看哪些文件加载失败及原因."
+		"zhCN": "部分功能可能无法正常工作.请打开D2RLoader设置中的扩展选项查看哪些文件加载失败及原因.",
+		"viVN": "Một số tính năng có thể không hoạt động chính xác. Mở tab Tiện ích mở rộng trong Cài đặt D2RLoader để xem tệp nào bị lỗi và nguyên nhân."
 	},
 	{
 		"Key": "D2RLoaderNotificationModDataVersionMissingTitle",
@@ -5501,7 +5844,8 @@
 		"jaJP": "Mod data version unknown",
 		"ptBR": "Mod data version unknown",
 		"ruRU": "Mod data version unknown",
-		"zhCN": "Mod数据文件版本未知"
+		"zhCN": "Mod数据文件版本未知",
+		"viVN": "Không rõ phiên bản dữ liệu mod"
 	},
 	{
 		"Key": "D2RLoaderNotificationModDataVersionMissingSummary",
@@ -5517,7 +5861,8 @@
 		"jaJP": "This mod does not say which D2R version its data was made for.",
 		"ptBR": "This mod does not say which D2R version its data was made for.",
 		"ruRU": "This mod does not say which D2R version its data was made for.",
-		"zhCN": "此MOD未标明基于哪个D2R数据版本制作."
+		"zhCN": "此MOD未标明基于哪个D2R数据版本制作.",
+		"viVN": "Mod này không ghi rõ dữ liệu của nó được tạo cho phiên bản D2R nào."
 	},
 	{
 		"Key": "D2RLoaderNotificationModDataVersionMissingDetails",
@@ -5533,7 +5878,8 @@
 		"jaJP": "D2RLoader could not confirm that the mod's TXT data matches your current game version, so the mod was loaded without a version check.",
 		"ptBR": "D2RLoader could not confirm that the mod's TXT data matches your current game version, so the mod was loaded without a version check.",
 		"ruRU": "D2RLoader could not confirm that the mod's TXT data matches your current game version, so the mod was loaded without a version check.",
-		"zhCN": "D2RLoader无法确认该MOD的TXT数据与您的游戏版本匹配,因此该MOD在未进行版本检查的情况下被加载."
+		"zhCN": "D2RLoader无法确认该MOD的TXT数据与您的游戏版本匹配,因此该MOD在未进行版本检查的情况下被加载.",
+		"viVN": "D2RLoader không thể xác nhận dữ liệu TXT của mod có khớp với phiên bản game hiện tại hay không, nên mod đã được tải mà không qua kiểm tra phiên bản."
 	},
 	{
 		"Key": "D2RLoaderNotificationInvalidModMetadataTitle",
@@ -5549,7 +5895,8 @@
 		"jaJP": "Mod information could not be used",
 		"ptBR": "Mod information could not be used",
 		"ruRU": "Mod information could not be used",
-		"zhCN": "Mod信息不可用"
+		"zhCN": "Mod信息不可用",
+		"viVN": "Không thể sử dụng thông tin mod"
 	},
 	{
 		"Key": "D2RLoaderNotificationInvalidModMetadataSummary",
@@ -5565,7 +5912,8 @@
 		"jaJP": "The mod's d2rloader/metadata.json file is invalid or could not be read.",
 		"ptBR": "The mod's d2rloader/metadata.json file is invalid or could not be read.",
 		"ruRU": "The mod's d2rloader/metadata.json file is invalid or could not be read.",
-		"zhCN": "MOD的 d2rloader/metadata.json 文件无效或无法被读取."
+		"zhCN": "MOD的 d2rloader/metadata.json 文件无效或无法被读取.",
+		"viVN": "Tệp d2rloader/metadata.json của mod không hợp lệ hoặc không thể đọc được."
 	},
 	{
 		"Key": "D2RLoaderNotificationInvalidModMetadataDetails",
@@ -5581,7 +5929,8 @@
 		"jaJP": "The mod was still loaded, but D2RLoader ignored this file. Check the D2RLoader log for the exact error.",
 		"ptBR": "The mod was still loaded, but D2RLoader ignored this file. Check the D2RLoader log for the exact error.",
 		"ruRU": "The mod was still loaded, but D2RLoader ignored this file. Check the D2RLoader log for the exact error.",
-		"zhCN": "MOD仍被加载,但D2RLoader无视了此文件.请查看D2RLoader的log文件了解错误详情."
+		"zhCN": "MOD仍被加载,但D2RLoader无视了此文件.请查看D2RLoader的log文件了解错误详情.",
+		"viVN": "Mod vẫn được tải, nhưng D2RLoader đã bỏ qua tệp này. Kiểm tra nhật ký D2RLoader để biết chi tiết lỗi."
 	},
 	{
 		"Key": "D2RLoaderNotificationModExtensionsDisabledTitle",
@@ -5597,7 +5946,8 @@
 		"jaJP": "This mod's extensions are disabled",
 		"ptBR": "This mod's extensions are disabled",
 		"ruRU": "This mod's extensions are disabled",
-		"zhCN": "此MOD的扩展功能已被禁用"
+		"zhCN": "此MOD的扩展功能已被禁用",
+		"viVN": "Các tiện ích mở rộng của mod này đã bị tắt"
 	},
 	{
 		"Key": "D2RLoaderNotificationModExtensionsDisabledSummary",
@@ -5613,7 +5963,8 @@
 		"jaJP": "This mod includes plugins or memory patches that were not loaded.",
 		"ptBR": "This mod includes plugins or memory patches that were not loaded.",
 		"ruRU": "This mod includes plugins or memory patches that were not loaded.",
-		"zhCN": "此MOD包含未加载的插件或补丁."
+		"zhCN": "此MOD包含未加载的插件或补丁.",
+		"viVN": "Mod này chứa các plugin hoặc bản vá bộ nhớ nhưng chúng chưa được tải."
 	},
 	{
 		"Key": "D2RLoaderNotificationModExtensionsDisabledDetails",
@@ -5629,7 +5980,8 @@
 		"jaJP": "Mod extensions are turned off in D2RLoader Settings. The mod may not work as intended unless they are enabled.",
 		"ptBR": "Mod extensions are turned off in D2RLoader Settings. The mod may not work as intended unless they are enabled.",
 		"ruRU": "Mod extensions are turned off in D2RLoader Settings. The mod may not work as intended unless they are enabled.",
-		"zhCN": "Mod扩展已被D2RLoader设置禁用. 除非启用扩展,否则该MOD可能无法按预期运转."
+		"zhCN": "Mod扩展已被D2RLoader设置禁用. 除非启用扩展,否则该MOD可能无法按预期运转.",
+		"viVN": "Tiện ích mở rộng của mod đang bị tắt trong Cài đặt D2RLoader. Mod có thể không hoạt động như mong đợi trừ khi được bật."
 	},
 	{
 		"Key": "D2RLoaderNotificationConfigInvalidTitle",
@@ -5645,7 +5997,8 @@
 		"jaJP": "D2RLoader settings could not be loaded",
 		"ptBR": "D2RLoader settings could not be loaded",
 		"ruRU": "D2RLoader settings could not be loaded",
-		"zhCN": "D2RLoader设置无法加载"
+		"zhCN": "D2RLoader设置无法加载",
+		"viVN": "Không thể tải cài đặt D2RLoader"
 	},
 	{
 		"Key": "D2RLoaderNotificationConfigInvalidSummary",
@@ -5661,7 +6014,8 @@
 		"jaJP": "D2RLoader is using your previous settings or the defaults instead.",
 		"ptBR": "D2RLoader is using your previous settings or the defaults instead.",
 		"ruRU": "D2RLoader is using your previous settings or the defaults instead.",
-		"zhCN": "D2RLoader正在使用您之前的设置或默认设置."
+		"zhCN": "D2RLoader正在使用您之前的设置或默认设置.",
+		"viVN": "D2RLoader đang sử dụng cài đặt trước đó hoặc giá trị mặc định thay thế."
 	},
 	{
 		"Key": "D2RLoaderNotificationConfigInvalidDetails",
@@ -5677,7 +6031,8 @@
 		"jaJP": "There is a problem with d2rloader.toml, or the file could not be read. Fix and save it to reload your settings. Check the D2RLoader log if this message does not go away.",
 		"ptBR": "There is a problem with d2rloader.toml, or the file could not be read. Fix and save it to reload your settings. Check the D2RLoader log if this message does not go away.",
 		"ruRU": "There is a problem with d2rloader.toml, or the file could not be read. Fix and save it to reload your settings. Check the D2RLoader log if this message does not go away.",
-		"zhCN": "d2rloader.toml出现问题或无法读取.请修复并保存该文件以重新加载设置.若该问题仍未消失,请查看D2RLoader的log文件."
+		"zhCN": "d2rloader.toml出现问题或无法读取.请修复并保存该文件以重新加载设置.若该问题仍未消失,请查看D2RLoader的log文件.",
+		"viVN": "Có vấn đề với tệp d2rloader.toml, hoặc không thể đọc tệp. Hãy sửa và lưu lại để nạp lại cài đặt. Kiểm tra nhật ký D2RLoader nếu thông báo này không biến mất."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerDirectoryDeprecated",
@@ -5693,7 +6048,8 @@
 		"jaJP": "This online game-list version will be discontinued soon. Update D2RLoader when a newer release is available.",
 		"ptBR": "This online game-list version will be discontinued soon. Update D2RLoader when a newer release is available.",
 		"ruRU": "This online game-list version will be discontinued soon. Update D2RLoader when a newer release is available.",
-		"zhCN": "This online game-list version will be discontinued soon. Update D2RLoader when a newer release is available."
+		"zhCN": "This online game-list version will be discontinued soon. Update D2RLoader when a newer release is available.",
+		"viVN": "Phiên bản danh sách phòng trực tuyến này sẽ sớm ngừng hoạt động. Hãy cập nhật D2RLoader khi có bản mới."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerDirectoryRetired",
@@ -5709,7 +6065,8 @@
 		"jaJP": "This online game-list version has been discontinued. Update D2RLoader to restore public hosting and browsing.",
 		"ptBR": "This online game-list version has been discontinued. Update D2RLoader to restore public hosting and browsing.",
 		"ruRU": "This online game-list version has been discontinued. Update D2RLoader to restore public hosting and browsing.",
-		"zhCN": "This online game-list version has been discontinued. Update D2RLoader to restore public hosting and browsing."
+		"zhCN": "This online game-list version has been discontinued. Update D2RLoader to restore public hosting and browsing.",
+		"viVN": "Phiên bản danh sách phòng trực tuyến này đã ngừng hoạt động. Hãy cập nhật D2RLoader để khôi phục khả năng mở và tìm phòng công khai."
 	},
 	{
 		"Key": "D2RLoaderNotificationGameDirectoryDeprecatedTitle",
@@ -5725,7 +6082,8 @@
 		"jaJP": "Online game list update needed soon",
 		"ptBR": "Online game list update needed soon",
 		"ruRU": "Online game list update needed soon",
-		"zhCN": "Online game list update needed soon"
+		"zhCN": "Online game list update needed soon",
+		"viVN": "Cần sớm cập nhật danh sách phòng trực tuyến"
 	},
 	{
 		"Key": "D2RLoaderNotificationGameDirectoryDeprecatedSummary",
@@ -5741,7 +6099,8 @@
 		"jaJP": "This build can still use the public game list, but support is ending.",
 		"ptBR": "This build can still use the public game list, but support is ending.",
 		"ruRU": "This build can still use the public game list, but support is ending.",
-		"zhCN": "This build can still use the public game list, but support is ending."
+		"zhCN": "This build can still use the public game list, but support is ending.",
+		"viVN": "Bản dựng này vẫn có thể dùng danh sách phòng công khai, nhưng sắp hết hạn hỗ trợ."
 	},
 	{
 		"Key": "D2RLoaderNotificationGameDirectoryDeprecatedDetails",
@@ -5757,7 +6116,8 @@
 		"jaJP": "Update D2RLoader before support ends. Direct IP games are unaffected.",
 		"ptBR": "Update D2RLoader before support ends. Direct IP games are unaffected.",
 		"ruRU": "Update D2RLoader before support ends. Direct IP games are unaffected.",
-		"zhCN": "Update D2RLoader before support ends. Direct IP games are unaffected."
+		"zhCN": "Update D2RLoader before support ends. Direct IP games are unaffected.",
+		"viVN": "Cập nhật D2RLoader trước khi ngừng hỗ trợ. Các trận đấu qua Direct IP không bị ảnh hưởng."
 	},
 	{
 		"Key": "D2RLoaderNotificationGameDirectoryDeprecatedEndsAtDetails",
@@ -5773,7 +6133,8 @@
 		"jaJP": "Support for this online game-list version ends at %s. Update D2RLoader before then. Direct IP games are unaffected.",
 		"ptBR": "Support for this online game-list version ends at %s. Update D2RLoader before then. Direct IP games are unaffected.",
 		"ruRU": "Support for this online game-list version ends at %s. Update D2RLoader before then. Direct IP games are unaffected.",
-		"zhCN": "Support for this online game-list version ends at %s. Update D2RLoader before then. Direct IP games are unaffected."
+		"zhCN": "Support for this online game-list version ends at %s. Update D2RLoader before then. Direct IP games are unaffected.",
+		"viVN": "Hỗ trợ cho phiên bản danh sách phòng trực tuyến này sẽ kết thúc vào %s. Hãy cập nhật D2RLoader trước thời điểm đó. Các trận đấu qua Direct IP không bị ảnh hưởng."
 	},
 	{
 		"Key": "D2RLoaderNotificationGameDirectoryRetiredTitle",
@@ -5789,7 +6150,8 @@
 		"jaJP": "Online game list discontinued",
 		"ptBR": "Online game list discontinued",
 		"ruRU": "Online game list discontinued",
-		"zhCN": "Online game list discontinued"
+		"zhCN": "Online game list discontinued",
+		"viVN": "Danh sách phòng trực tuyến đã ngừng hoạt động"
 	},
 	{
 		"Key": "D2RLoaderNotificationGameDirectoryRetiredSummary",
@@ -5805,7 +6167,8 @@
 		"jaJP": "This D2RLoader build can no longer use the public game list.",
 		"ptBR": "This D2RLoader build can no longer use the public game list.",
 		"ruRU": "This D2RLoader build can no longer use the public game list.",
-		"zhCN": "This D2RLoader build can no longer use the public game list."
+		"zhCN": "This D2RLoader build can no longer use the public game list.",
+		"viVN": "Bản dựng D2RLoader này không còn có thể sử dụng danh sách phòng công khai."
 	},
 	{
 		"Key": "D2RLoaderNotificationGameDirectoryRetiredDetails",
@@ -5821,7 +6184,8 @@
 		"jaJP": "Update D2RLoader to restore public game hosting and browsing. Direct IP games are unaffected.",
 		"ptBR": "Update D2RLoader to restore public game hosting and browsing. Direct IP games are unaffected.",
 		"ruRU": "Update D2RLoader to restore public game hosting and browsing. Direct IP games are unaffected.",
-		"zhCN": "Update D2RLoader to restore public game hosting and browsing. Direct IP games are unaffected."
+		"zhCN": "Update D2RLoader to restore public game hosting and browsing. Direct IP games are unaffected.",
+		"viVN": "Cập nhật D2RLoader để khôi phục tính năng mở và tìm phòng công khai. Các trận đấu qua Direct IP không bị ảnh hưởng."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerExtensionName",
@@ -5837,7 +6201,8 @@
 		"jaJP": "Extension",
 		"ptBR": "Extension",
 		"ruRU": "Extension",
-		"zhCN": "扩展"
+		"zhCN": "扩展",
+		"viVN": "Tiện ích mở rộng"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerExtensionDetails",
@@ -5853,7 +6218,8 @@
 		"jaJP": "バージョン / ロール",
 		"ptBR": "Versão / Função",
 		"ruRU": "Версия / Роль",
-		"zhCN": "版本 / 角色"
+		"zhCN": "版本 / 角色",
+		"viVN": "Phiên bản / Vai trò"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerUnnamedPatch",
@@ -5869,7 +6235,8 @@
 		"jaJP": "Unnamed patch",
 		"ptBR": "Unnamed patch",
 		"ruRU": "Unnamed patch",
-		"zhCN": "未命名补丁"
+		"zhCN": "未命名补丁",
+		"viVN": "Bản vá chưa đặt tên"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerPatchRoleHost",
@@ -5885,7 +6252,8 @@
 		"jaJP": "Host",
 		"ptBR": "Host",
 		"ruRU": "Host",
-		"zhCN": "主机"
+		"zhCN": "主机",
+		"viVN": "Host"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerCompatibilityTitle",
@@ -5901,7 +6269,8 @@
 		"jaJP": "Multiplayer Compatibility",
 		"ptBR": "Multiplayer Compatibility",
 		"ruRU": "Multiplayer Compatibility",
-		"zhCN": "Multiplayer Compatibility"
+		"zhCN": "Multiplayer Compatibility",
+		"viVN": "Tương thích nhiều người chơi"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerFingerprintGroups",
@@ -5917,7 +6286,8 @@
 		"jaJP": "Fingerprint Groups",
 		"ptBR": "Fingerprint Groups",
 		"ruRU": "Fingerprint Groups",
-		"zhCN": "Fingerprint Groups"
+		"zhCN": "Fingerprint Groups",
+		"viVN": "Nhóm Fingerprint"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerUnableToJoin",
@@ -5933,7 +6303,8 @@
 		"jaJP": "Unable to Join",
 		"ptBR": "Unable to Join",
 		"ruRU": "Unable to Join",
-		"zhCN": "Unable to Join"
+		"zhCN": "Unable to Join",
+		"viVN": "Không thể tham gia"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerDataMismatchTitle",
@@ -5949,7 +6320,8 @@
 		"jaJP": "Game Data Does Not Match",
 		"ptBR": "Game Data Does Not Match",
 		"ruRU": "Game Data Does Not Match",
-		"zhCN": "Game Data Does Not Match"
+		"zhCN": "Game Data Does Not Match",
+		"viVN": "Dữ liệu trò chơi không khớp"
 	},
 	{
 		"Key": "D2RLoaderMultiplayerDataMismatchNote",
@@ -5965,7 +6337,8 @@
 		"jaJP": "Select a category to see what is known about the mismatch.",
 		"ptBR": "Select a category to see what is known about the mismatch.",
 		"ruRU": "Select a category to see what is known about the mismatch.",
-		"zhCN": "Select a category to see what is known about the mismatch."
+		"zhCN": "Select a category to see what is known about the mismatch.",
+		"viVN": "Chọn một danh mục để xem thông tin chi tiết về sự không khớp."
 	},
 	{
 		"Key": "D2RLoaderMultiplayerReturnToGameList",
@@ -5981,7 +6354,8 @@
 		"jaJP": "Return to Game List",
 		"ptBR": "Return to Game List",
 		"ruRU": "Return to Game List",
-		"zhCN": "Return to Game List"
+		"zhCN": "Return to Game List",
+		"viVN": "Quay lại danh sách phòng"
 	},
 	{
 		"Key": "D2RLoaderCharacterLoadFailed",
@@ -5997,7 +6371,8 @@
 		"jaJP": "This character could not be loaded.\nPlease check the D2RLoader log for details.",
 		"ptBR": "This character could not be loaded.\nPlease check the D2RLoader log for details.",
 		"ruRU": "This character could not be loaded.\nPlease check the D2RLoader log for details.",
-		"zhCN": "This character could not be loaded.\nPlease check the D2RLoader log for details."
+		"zhCN": "This character could not be loaded.\nPlease check the D2RLoader log for details.",
+		"viVN": "Không thể tải nhân vật này.\nVui lòng kiểm tra nhật ký D2RLoader để biết chi tiết."
 	},
 	{
 		"Key": "D2RLoaderNotificationLegacyModBinsTitle",
@@ -6013,7 +6388,8 @@
 		"jaJP": "Legacy mod BIN files",
 		"ptBR": "Legacy mod BIN files",
 		"ruRU": "Legacy mod BIN files",
-		"zhCN": "Legacy mod BIN files"
+		"zhCN": "Legacy mod BIN files",
+		"viVN": "Tệp BIN mod kiểu cũ"
 	},
 	{
 		"Key": "D2RLoaderNotificationLegacyModBinsSummary",
@@ -6029,7 +6405,8 @@
 		"jaJP": "This mod uses the older game BIN format.",
 		"ptBR": "This mod uses the older game BIN format.",
 		"ruRU": "This mod uses the older game BIN format.",
-		"zhCN": "This mod uses the older game BIN format."
+		"zhCN": "This mod uses the older game BIN format.",
+		"viVN": "Mod này sử dụng định dạng BIN của game cũ."
 	},
 	{
 		"Key": "D2RLoaderNotificationLegacyModBinsDetails",
@@ -6045,6 +6422,7 @@
 		"jaJP": "D2RLoader is trying to load this mod using legacy BIN files. Some table links may not match without the original TXT files. If those files are available, use D2RLCompiler to convert the mod to D2RLoader BINs.",
 		"ptBR": "D2RLoader is trying to load this mod using legacy BIN files. Some table links may not match without the original TXT files. If those files are available, use D2RLCompiler to convert the mod to D2RLoader BINs.",
 		"ruRU": "D2RLoader is trying to load this mod using legacy BIN files. Some table links may not match without the original TXT files. If those files are available, use D2RLCompiler to convert the mod to D2RLoader BINs.",
-		"zhCN": "D2RLoader is trying to load this mod using legacy BIN files. Some table links may not match without the original TXT files. If those files are available, use D2RLCompiler to convert the mod to D2RLoader BINs."
+		"zhCN": "D2RLoader is trying to load this mod using legacy BIN files. Some table links may not match without the original TXT files. If those files are available, use D2RLCompiler to convert the mod to D2RLoader BINs.",
+		"viVN": "D2RLoader đang thử tải mod này bằng các tệp BIN cũ. Một số liên kết bảng có thể không khớp nếu không có tệp TXT gốc. Nếu có sẵn các tệp đó, hãy dùng D2RLCompiler để chuyển đổi mod sang định dạng BIN của D2RLoader."
 	}
 ]
